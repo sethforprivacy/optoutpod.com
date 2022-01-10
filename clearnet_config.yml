@@ -21,7 +21,7 @@ params:
   defaultTheme: dark
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
