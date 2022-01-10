@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-11-13T15:18:47-05:00"
-description: Wondering why FOSS and privacy have become such a focus for Matt Odell
+summary: Wondering why FOSS and privacy have become such a focus for Matt Odell
   and Citadel Dispatch, or wanting to learn more about FOSS in general? This episode,
   we're sitting down with Matt Odell for a bit of a different show where we focus
   on listener questions around FOSS, privacy, FOSS community ethos, and his journey

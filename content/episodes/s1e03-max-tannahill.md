@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-06-27T15:42:46-05:00"
-description: Wanting to learn more about mobile privacy, but not sure where to start?
+summary: Wanting to learn more about mobile privacy, but not sure where to start?
   This episode, we sat down with Max Tannahill to chat about mobile OSs, surveillance,
   and cryptocurrency.
 draft: false

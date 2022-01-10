@@ -5,7 +5,7 @@ date: 2021-08-02T11:59:01-05:00
 aliases: ["/projects"]
 tags: ["projects", "tools"]
 author: "Seth For Privacy"
-description: "This will be a place to simply track and combine all of the tools I recommend you take a look at each week with a simple description and some links."
+summary: "This will be a place to simply track and combine all of the tools I recommend you take a look at each week with a simple description and some links."
 weight: 2
 ---
 

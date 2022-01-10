@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-11-28T00:00:00-05:00"
-description: Wondering what drives normal people to focus on FOSS? This episode, we're
+summary: Wondering what drives normal people to focus on FOSS? This episode, we're
   sitting down with QnA to chat about his journey towards privacy through Bitcoin
   and the impact of FOSS along the way.
 draft: false

@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-09-15T15:52:39-05:00"
-description: Wondering what mobile Monero wallet I use and recommend and why I chose
+summary: Wondering what mobile Monero wallet I use and recommend and why I chose
   to take Cake Wallet on as a sponsor? This episode, we're sitting down with Vik Sharma,
   owner of Cake Wallet, the newest sponsor of Opt Out.
 draft: false

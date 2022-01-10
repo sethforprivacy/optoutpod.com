@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2022-01-09T16:00:00-05:00"
-description: Wondering how to take back control of the data captured by data brokers
+summary: Wondering how to take back control of the data captured by data brokers
   before you started taking privacy more seriously? This episode, we're sitting down
   with Rob Shavell, co-founder of DeleteMe to chat about cleaning up the data about
   you that's been scooped up by data brokers across the internet.

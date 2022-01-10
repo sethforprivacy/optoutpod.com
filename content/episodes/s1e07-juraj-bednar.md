@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-08-22T15:32:55-05:00"
-description: Where does privacy fit in to opting out of a broken (or breaking) economy
+summary: Where does privacy fit in to opting out of a broken (or breaking) economy
   or society? How can we build parallel economies using privacy tools? This episode,
   we're sitting down Juraj Bednar to chat about his own personal privacy journey,
   how parallel economies can (and will!) work, and what role Bitcoin plays in building

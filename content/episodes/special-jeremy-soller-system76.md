@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-09-30T15:50:51-05:00"
-description: Have you been thinking about switching to Linux for your daily driver,
+summary: Have you been thinking about switching to Linux for your daily driver,
   or wondering what Coreboot or open-source firmware are? This episode, we're sitting
   down with Jeremy Soller to chat about System76, the company that makes my laptop
   (among others) and are behind Pop_OS!, a user-friendly Linux distribution.

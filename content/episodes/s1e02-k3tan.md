@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-06-13T15:44:08-05:00"
-description: This week, I got the pleasure of sitting down with k3tan to chat about
+summary: This week, I got the pleasure of sitting down with k3tan to chat about
   privacy, self-hosting, and some of his favorite tools.
 draft: false
 keywords:

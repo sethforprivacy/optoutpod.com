@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-07-09T15:40:26-05:00"
-description: Wondering what the difference is between privacy, security, and anonymity
+summary: Wondering what the difference is between privacy, security, and anonymity
   and how the three intersect? How about what a threat model is and how to develop
   one for yourself? This episode, we're sitting down with Nathan from The New Oil
   to chat about threat modeling, the intersection of privacy, security, and anonymity,

@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-10-05T15:26:30-05:00"
-description: Wondering what it's like to take the dive and switch to Linux and CalyxOS
+summary: Wondering what it's like to take the dive and switch to Linux and CalyxOS
   at once? How does the recent push for vaccine mandates impact our journey towards
   privacy? This episode, we're sitting down with Chris Blec to chat about his journey
   to Linux and CalyxOS, security and privacy in cryptocurrency, our thoughts on the

@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2022-01-03T09:30:00-05:00"
-description: Heard about email aliasing but not sure where to start? This episode,
+summary: Heard about email aliasing but not sure where to start? This episode,
   we're sitting down with Son from SimpleLogin to chat about email aliasing.
 draft: false
 keywords:

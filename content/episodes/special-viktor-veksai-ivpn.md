@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-12-03T15:49:17-05:00"
-description: Wanting to find a solid VPN provider, but struggling to break through
+summary: Wanting to find a solid VPN provider, but struggling to break through
   all of the marketing fluff and grandiose claims? This episode, we're sitting down
   with Viktor, a member of the IVPN team, the newest sponsor of Opt Out to discuss
   the ethos behind IVPN, their approach to providing privacy to users, and some of

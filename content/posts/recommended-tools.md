@@ -5,7 +5,7 @@ date: 2021-08-02T12:18:24-05:00
 # aliases: ["/first"]
 tags: ["tools"]
 author: "Seth For Privacy"
-description: "This page will serve as a simple place for you to come to find a list of all of the tools that guests of Opt Out have shared as tools they regularly use to opt out of surveillance, data harvesting, etc."
+summary: "This page will serve as a simple place for you to come to find a list of all of the tools that guests of Opt Out have shared as tools they regularly use to opt out of surveillance, data harvesting, etc."
 weight: 1
 ---
 

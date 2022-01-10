@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-10-17T15:24:28-05:00"
-description: Wondering how global surveillance could realistically work, or how VPNs
+summary: Wondering how global surveillance could realistically work, or how VPNs
   can play a role in your privacy? This episode, we're sitting down with Smuggler
   to chat about global surveillance, a realistic look at VPNs (and Tor!), and his
   journey as a cypherpunk.

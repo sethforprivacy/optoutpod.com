@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-09-15T15:54:01-05:00"
-description: What's the best way to buy and sell Monero while maintaining personal
+summary: What's the best way to buy and sell Monero while maintaining personal
   privacy? This episode, we're sitting down with Alex, co-founder of LocalMonero,
   the newest sponsor of Opt Out.
 draft: false

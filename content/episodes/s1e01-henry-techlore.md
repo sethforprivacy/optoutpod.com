@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-06-01T15:45:42-05:00"
-description: This week, I got the pleasure of sitting down with Henry from Techlore
+summary: This week, I got the pleasure of sitting down with Henry from Techlore
   to chat about digital minimalism, privacy education, and some of the tools and projects
   that Henry recommends for taking back control of our privacy and data in an ever
   increasing world of data capture, tracking, and sharing.

@@ -3,11 +3,9 @@ author: Seth For Privacy
 date: "2020-11-29T19:01:07-05:00"
 draft: false
 hidemeta: true
-showToc: true
-title: About
+showToc: false
+title: About Opt Out
 ---
-
-# About Me
 
 Welcome to Opt Out, where I sit down with passionate people to learn why privacy matters to them, the tools and techniques they’ve found and leveraged, and where we encourage and inspire others towards personal privacy and data-sovereignty.
 
@@ -22,6 +20,12 @@ Thanks in advance for listening, and I hope you learn as much as I do each episo
 - [Threema](https://threema.id/WBAAN4ZA) - `WBAAN4ZA`  
 - [Cwtch](https://cwtch.im/)- `eitasbh6bzqpwyrzlu67bb2pygqba34yxertepupyvuuukvgwfofdyyd`  
 - [Email](mailto:seth@optoutpod.com) - `seth@optoutpod.com`
+
+## Opt Out Community Channels
+
+You can jump into the community on Matrix using the channel link below, but feel free to [reach out](#how-to-contact-me) to recommend a new channel or community location:
+
+- [Opt Out Podcast Matrix](https://matrix.to/#/#optout:monero.social)
 
 ## Donations
 

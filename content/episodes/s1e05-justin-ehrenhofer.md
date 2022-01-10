@@ -2,7 +2,7 @@
 author: Seth For Privacy
 authorTwitter: sethforprivacy
 date: "2021-07-26T15:37:31-05:00"
-description: Wondering how you can contribute to FOSS projects without being able
+summary: Wondering how you can contribute to FOSS projects without being able
   to code, or why privacy needs to be the default option in tools you use? This episode,
   we're sitting down with Justin Ehrenhofer to chat about contributing to FOSS projects
   as a non-dev, why privacy by default matters, and where Monero fits into his toolkit.
