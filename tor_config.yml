@@ -68,7 +68,7 @@ params:
     - name: matrix
       url: "https://matrix.to/#/#optout:monero.social"
     - name: rss
-      url: "/index.xml"
+      url: "https://feeds.buzzsprout.com/1790481.rss"
     - name: spotify
       url: "https://open.spotify.com/show/59fX0wRUKhWGK9IAKt7bQM"
 
@@ -108,10 +108,14 @@ menu:
       name: About
       url: /about
       weight: 3
+    - identifier: sponsors
+      name: Sponsors
+      url: /sponsors
+      weight: 4
     - identifier: search
       name: Search
       url: /search
-      weight: 4
+      weight: 5
 
 privacy:
   disqus:
