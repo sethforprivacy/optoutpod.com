@@ -3,7 +3,7 @@ name: Build site and deploy custom image
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 jobs:
