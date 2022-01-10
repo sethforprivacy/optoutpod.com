@@ -15,7 +15,7 @@ tags:
 - podcast
 - opt out
 title: Email aliasing w/ Son from SimpleLogin
-toc: false
+showToc: false
 ---
 
 # Episode

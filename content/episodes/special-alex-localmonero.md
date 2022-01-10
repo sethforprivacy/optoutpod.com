@@ -17,7 +17,7 @@ tags:
 - opt out
 - special
 title: Sponsor Special w/ Alex from LocalMonero and AgoraDesk
-toc: false
+showToc: false
 ---
 
 # Episode

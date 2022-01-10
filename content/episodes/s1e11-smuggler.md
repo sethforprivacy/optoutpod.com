@@ -18,7 +18,7 @@ tags:
 - opt out
 - season 1
 title: Global surveillance, VPNs, and Tor w/ Smuggler
-toc: false
+showToc: false
 ---
 
 # Episode

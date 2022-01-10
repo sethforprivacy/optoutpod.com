@@ -19,7 +19,7 @@ tags:
 - opt out
 - season 1
 title: Parallel econonomies and ethical Veksláks w/ Juraj Bednar
-toc: false
+showToc: false
 ---
 
 # Episode

@@ -19,7 +19,7 @@ tags:
 - opt out
 - special
 title: Sponsor Special w/ Viktor Vecsei from IVPN
-toc: false
+showToc: false
 ---
 
 # Episode

@@ -19,7 +19,7 @@ tags:
 - opt out
 - season 1
 title: PGP, Bitcoin, and Yunohost w/ Diverter
-toc: false
+showToc: false
 ---
 
 # Episode

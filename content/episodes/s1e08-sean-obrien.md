@@ -17,7 +17,7 @@ keywords:
 - opt out
 - season 1
 title: Decentralized and censorship-resistant messaging platforms w/ Sean O'Brien
-toc: false
+showToc: false
 ---
 
 # Episode

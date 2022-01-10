@@ -20,7 +20,7 @@ tags:
 - season 1
 title: Personal responsibility in privacy, FOSS funding models, and Bitcoin w/ Matt
   Odell
-toc: false
+showToc: false
 ---
 
 # Episode

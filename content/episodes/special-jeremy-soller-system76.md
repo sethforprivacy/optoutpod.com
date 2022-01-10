@@ -18,7 +18,7 @@ tags:
 - opt out
 - special
 title: Coreboot, FOSS firmware, Pop_OS!, and System76 w/ Jeremy Soller
-toc: false
+showToc: false
 ---
 
 # Episode

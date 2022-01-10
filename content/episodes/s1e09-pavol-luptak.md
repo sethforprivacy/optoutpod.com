@@ -18,7 +18,7 @@ tags:
 - opt out
 - season 1
 title: Cryptoanarchy and freedom w/ Pavol Lupták
-toc: false
+showToc: false
 ---
 
 # Episode

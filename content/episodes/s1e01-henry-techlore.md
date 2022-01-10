@@ -18,7 +18,7 @@ tags:
 - opt out
 - season 1
 title: Privacy as a journey and digital minimalism w/ Techlore
-toc: false
+showToc: false
 ---
 
 # Episode

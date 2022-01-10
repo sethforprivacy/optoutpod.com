@@ -18,7 +18,7 @@ tags:
 - opt out
 - season 1
 title: Privacy education, funding, and Apple w/ Sun Knudsen
-toc: false
+showToc: false
 ---
 
 # Episode

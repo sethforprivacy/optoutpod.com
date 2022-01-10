@@ -16,7 +16,7 @@ tags:
 - opt out
 - season 1
 title: Digital identity, FOSS, and self-hosting w/ k3tan
-toc: false
+showToc: false
 ---
 
 # Episode

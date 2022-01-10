@@ -17,7 +17,7 @@ tags:
 - opt out
 - special
 title: Sponsor Special w/ Vik Sharma from Cake Wallet
-toc: false
+showToc: false
 ---
 
 # Episode

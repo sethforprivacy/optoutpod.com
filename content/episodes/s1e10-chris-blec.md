@@ -19,7 +19,7 @@ tags:
 - opt out
 - season 1
 title: Transitioning to Linux and CalyxOS w/ Chris Blec
-toc: false
+showToc: false
 ---
 
 # Episode

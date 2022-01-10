@@ -17,7 +17,7 @@ tags:
 - podcast
 - opt out
 title: Clean up your data online w/ Rob Shavell from DeleteMe
-toc: false
+showToc: false
 ---
 
 # Episode

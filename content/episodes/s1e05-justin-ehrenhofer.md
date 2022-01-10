@@ -18,7 +18,7 @@ tags:
 - opt out
 - season 1
 title: Privacy by default, contributing to FOSS, and Monero w/ Justin Ehrenhofer
-toc: false
+showToc: false
 ---
 
 # Episode

@@ -17,7 +17,7 @@ tags:
 - opt out
 - season 1
 title: Mobile OS privacy, drag-net surveillance, and cryptocurrency usage w/ Max Tannahill
-toc: false
+showToc: false
 ---
 
 # Episode

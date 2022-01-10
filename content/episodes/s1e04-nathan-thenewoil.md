@@ -19,7 +19,7 @@ tags:
 - opt out
 - season 1
 title: Threat models and the importance of open-source software w/ Nathan from TheNewOil
-toc: false
+showToc: false
 ---
 
 # Episode

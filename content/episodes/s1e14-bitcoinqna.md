@@ -17,7 +17,7 @@ tags:
 - opt out
 - season 1
 title: A Bitcoiner's journey towards privacy w/ BitcoinQnA
-toc: false
+showToc: false
 ---
 
 # Episode
