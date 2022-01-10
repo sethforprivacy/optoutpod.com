@@ -13,6 +13,29 @@ If you like what we’re doing at Opt Out, you can support the podcast by sharin
 
 Thanks in advance for listening, and I hope you learn as much as I do each episode!
 
+## Ways To Listen
+
+While you can listen to the podcast directly on the site, most people consume podcast content on one of several apps or platforms.
+
+See below for a list of direct links to Opt Out on the most common platforms:
+
+- [Direct RSS feed](https://feeds.buzzsprout.com/1790481.rss)
+- [Amazon Music](https://music.amazon.com/podcasts/627c4e78-24f9-46cf-abaa-50e3e2386d47/opt-out)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/opt-out/id1572450110)
+- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNzkwNDgxLnJzcw==)
+- [iHeart Radio](https://www.iheart.com/podcast/269-opt-out-83234356/)
+- [Listen Notes](https://www.listennotes.com/podcasts/opt-out-seth-for-privacy-rK8OwF7oYyz/)
+- [PeerTube](https://videos.optoutpod.com/videos/local)
+- [Player.FM](https://player.fm/series/opt-out)
+- [Pocket Casts](https://pca.st/3iu4ight)
+- [Podcast Addict](https://podcastaddict.com/podcast/3367216)
+- [Podcast Index](https://podcastindex.org/podcast/3920142)
+- [Podchaser](https://www.podchaser.com/podcasts/opt-out-1906115)
+- [Spotify](https://open.spotify.com/show/59fX0wRUKhWGK9IAKt7bQM)
+- [Stitcher](https://www.stitcher.com/show/opt-out-2)
+- [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/Opt-Out-p1448055/)
+- [YouTube](https://www.youtube.com/c/OptOutPodcast)
+
 ## How To Contact Me  
 
 - [Twitter](https://twitter.com/optoutpod) - `@optoutpod`  
