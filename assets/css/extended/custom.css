@@ -12,6 +12,18 @@
 	float: right;
 }
 
+:root {
+    --theme: rgb(255, 255, 255);
+    --entry: rgb(255, 255, 255);
+    --primary: rgba(223, 66, 68, 1);
+    --secondary: rgb(108, 108, 108);
+    --tertiary: rgb(214, 214, 214);
+    --content: rgb(31, 31, 31);
+    --hljs-bg: rgb(28, 29, 33);
+    --code-bg: rgb(245, 245, 245);
+    --border: rgb(238, 238, 238);
+}
+
 .dark {
     --theme: rgb(0, 0, 0);
     --entry: rgb(25, 25, 27);
