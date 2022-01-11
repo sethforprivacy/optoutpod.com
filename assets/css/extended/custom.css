@@ -11,3 +11,15 @@
 	height: auto;
 	float: right;
 }
+
+.dark {
+    --theme: rgb(0, 0, 0);
+    --entry: rgb(25, 25, 27);
+    --primary: rgba(223, 66, 68, 1);
+    --secondary: rgba(235, 235, 255, 0.66);
+    --tertiary: rgba(0, 0, 0, 0.32);
+    --content: rgba(235, 235, 255, 0.82);
+    --hljs-bg: #2e2e33;
+    --code-bg: #37383e;
+    --border: #446;
+}

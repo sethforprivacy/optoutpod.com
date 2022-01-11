@@ -19,7 +19,7 @@ params:
   author: Seth For Privacy
   DateFormat: "January 2, 2006"
   defaultTheme: dark
-  disableThemeToggle: false
+  disableThemeToggle: true
 
   ShowReadingTime: false
   ShowShareButtons: true
@@ -157,4 +157,4 @@ markup:
     guessSyntax: true
     lineNos: false
     # noClasses: false
-    style: dracula
+    style: solarized-dark
