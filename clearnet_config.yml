@@ -63,6 +63,16 @@ params:
       - ***For direct links to more ways to listen to Opt Out, see [Ways To Listen](/about/#ways-to-listen).***
 
   socialIcons:
+    - name: rss
+      url: "https://feeds.buzzsprout.com/1790481.rss"
+    - name: applepodcasts
+      url: "https://podcasts.apple.com/us/podcast/id1572450110?mt=2&ls=1"
+    - name: googlepodcasts
+      url: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNzkwNDgxLnJzcw=="
+    - name: pocketcasts
+      url: "https://pca.st/3iu4ight"
+    - name: overcast
+      url: "https://overcast.fm/itunes1572450110"
     - name: youtube
       url: "https://www.youtube.com/c/OptOutPodcast"
     - name: twitter
@@ -71,8 +81,6 @@ params:
       url: "mailto:seth@optoutpod.com"
     - name: matrix
       url: "https://matrix.to/#/#optout:monero.social"
-    - name: rss
-      url: "https://feeds.buzzsprout.com/1790481.rss"
     - name: spotify
       url: "https://open.spotify.com/show/59fX0wRUKhWGK9IAKt7bQM"
 

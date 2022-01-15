@@ -16,6 +16,7 @@ tags:
 - privacy
 - podcast
 - opt out
+- season 2
 title: Clean up your data online w/ Rob Shavell from DeleteMe
 showToc: false
 ---
