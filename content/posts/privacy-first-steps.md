@@ -159,7 +159,7 @@ The only real recommendation I have here is below, but note that for some threat
 
 - [CalyxOS](https://calyxos.org/)
   - I've long been a huge fan of CalyxOS, have run it for almost a year, and am a financial supporter of the [Calyx Institute](https://calyxos.org/), the non-profit organization behind CalyxOS. CalyxOS is an incredibly powerful tool, one that takes the open-source Android operating system created by Google and strips Google's tracking and services out of it, and then builds it back up with a focus on user privacy and FOSS app stores (like F-Droid).
-  - For more on CalyxOS and my experience/recommendations, see my blog post ["Switching to CalyxOS"]({{< ref "/content/posts/switching-to-calyxos.md" >}}).
+  - For more on CalyxOS and my experience/recommendations, see my blog post ["Switching to CalyxOS"](https://blog.sethforprivacy.com/posts/switching-to-calyxos/).
 
 ## 9. Use a more privacy-conscious desktop operating system
 
