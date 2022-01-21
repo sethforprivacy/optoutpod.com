@@ -1,0 +1,24 @@
+---
+title: "Samourai Wallet"
+date: 2022-01-21T16:43:39-05:00
+tags: []
+author: "Seth For Privacy"
+summary: "Episode: S2E03 - Privacy on Bitcoin w/ Samourai Wallet"
+showToc: false
+disableShare: true
+hidemeta: true
+---
+
+{{< figure src="/guests/samouraiwallet.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+
+### Co-founder of Samourai Wallet
+
+> Bitcoin wallet for the streets with a strong focus on privacy. Since 2015
+
+- Website -- https://samouraiwallet.com/
+- Twitter -- https://twitter.com/samouraiwallet
+- YouTube -- https://www.youtube.com/channel/UCb4Y89L9Bokuo6OWqjAhMoA
+
+#### Episodes
+
+- [S2E03 - Privacy on Bitcoin w/ Samourai Wallet]({{< ref "/content/episodes/s2e3-samourai-wallet.md" >}})
