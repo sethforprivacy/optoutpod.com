@@ -19,6 +19,7 @@ tags:
 - season 1
 title: Cryptoanarchy and freedom w/ Pavol Lupták
 showToc: false
+aliases: ["/s1e9"]
 ---
 
 # Episode
@@ -33,7 +34,7 @@ What is crypto-anarchy? How can I opt out if my country has become too authorita
 
 ## More about Pavol Lupták:
 
-- Pavol Lupták's guest profile -- https://www.optoutpod.com/guests/pavol-luptak/
+- Pavol Lupták's guest profile -- [Pavol Lupták]({{< ref "/content/guests/pavol-luptak.md" >}})
 - A slideshow on Pavol's top 30 mobile tools for privacy -- https://slides.com/nethemba/my-top-30-sovereignty-apps
 - Liberation.Travel website -- https://liberation.travel/
 - The mission of Liberation.Travel -- https://liberation.travel/the-mission-of-liberation-travel/
@@ -61,12 +62,12 @@ What is crypto-anarchy? How can I opt out if my country has become too authorita
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

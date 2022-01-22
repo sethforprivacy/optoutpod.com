@@ -20,6 +20,7 @@ tags:
 - season 1
 title: PGP, Bitcoin, and Yunohost w/ Diverter
 showToc: false
+aliases: ["/s1e6"]
 ---
 
 # Episode
@@ -34,7 +35,7 @@ Ever wondered how you can easily self-host tools, or thought about hosting tools
 
 ## More about Diverter:
 
-- Diverter's guest profile -- https://www.optoutpod.com/guests/diverter/
+- Diverter's guest profile -- [Diverter]({{< ref "/content/guests/diverter.md" >}})
 - As easy as P, G, P -- https://diverter.hostyourown.tools/as-easy-ators-pgp/
 - Becoming "Uncle Jim" -- https://diverter.hostyourown.tools/becoming-uncle-jim/
 - Protecting Your Bitcoin Identity (BANB2020 Presentation) -- https://diverter.hostyourown.tools/protecting-your-bitcoin-identity/
@@ -57,12 +58,12 @@ Ever wondered how you can easily self-host tools, or thought about hosting tools
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

@@ -1,6 +1,6 @@
 ---
 title: "Max Tannahill"
-date: 2022-01-21T16:37:12-05:00
+date: "2021-06-27T15:42:46-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S1E03 - Mobile OS privacy, drag-net surveillance, and cryptocurrency usage w/ Max Tannahill"

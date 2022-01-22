@@ -19,6 +19,7 @@ tags:
 - season 1
 title: Privacy by default, contributing to FOSS, and Monero w/ Justin Ehrenhofer
 showToc: false
+aliases: ["/s1e5"]
 ---
 
 # Episode
@@ -33,7 +34,7 @@ Wondering how you can contribute to FOSS projects without being able to code, or
 
 ## More about Justin:
 
-- Justin's guest profile -- https://www.optoutpod.com/guests/justin-ehrenhofer/
+- Justin's guest profile -- [Justin Ehrenhofer]({{< ref "/content/guests/justin-ehrenhofer.md" >}})
 - MAGIC grants, a non-profit -- https://www.magicgrants.org/
 
 ## Justin's recommended tools to Opt Out:
@@ -56,12 +57,12 @@ Wondering how you can contribute to FOSS projects without being able to code, or
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

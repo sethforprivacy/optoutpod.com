@@ -1,6 +1,6 @@
 ---
 title: "Alex from LocalMonero/AgoraDesk"
-date: 2022-01-21T15:39:48-05:00
+date: "2021-09-15T15:54:01-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: Sponsor Special w/ Alex from LocalMonero and AgoraDesk"

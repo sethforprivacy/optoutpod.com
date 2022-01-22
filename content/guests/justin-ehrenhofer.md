@@ -1,6 +1,6 @@
 ---
 title: "Justin Ehrenhofer"
-date: 2022-01-21T16:28:28-05:00
+date: "2021-07-26T15:37:31-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S1E05 - Privacy by default, contributing to FOSS, and Monero w/ Justin Ehrenhofer"

@@ -138,7 +138,7 @@ Using a non-logging and trustworthy VPN is a great way to shift the trust from y
 I have used both of the below VPNs extensively and they also come recommended by many people I trust dearly.
 
 - [IVPN](https://www.ivpn.net/)
-  - I've spoken at length on why I trust and use IVPN, but for more details check out [this link](https://www.optoutpod.com/sponsors/#sponsor-ivpn).
+  - I've spoken at length on why I trust and use IVPN, but for more details check out [this link](https://optoutpod.com/sponsors/#ivpn).
   - tl;dr -- trustworthy team, incredible cross-platform clients, strong reputation, extremely honest about shortcomings of VPNs generally, externally audited, fast, Wireguard support
 - [Mullvad](https://mullvad.net/en/)
   - Mullvad is an amazing VPN provider and have long been a recommendation of mine. They have a long and storied history, great service, accountless setup, and solid cross-platform clients.
@@ -147,9 +147,9 @@ To help you make your own well-informed choices, here are some excellent resourc
 
 - [IVPN's own tool, "Do I need a VPN?"](https://www.doineedavpn.com/)
 - [Techlore's incredible VPN toolkit](https://www.doineedavpn.com/)
-- Two episodes of [Opt Out](https://www.optoutpod.com/) focused on VPNs and Tor:
-  - ["Global surveillance, VPNs, and Tor w/ Smuggler"](https://www.optoutpod.com/global-surveillance-vpns-and-tor-w-smuggler/)
-  - ["Balancing privacy with mental health, plus second realms w/ j43"](https://www.optoutpod.com/balancing-privacy-with-mental-health-plus-second-realms-w-j43/)
+- Two episodes of [Opt Out](https://optoutpod.com/) focused on VPNs and Tor:
+  - ["Global surveillance, VPNs, and Tor w/ Smuggler"](https://optoutpod.com/global-surveillance-vpns-and-tor-w-smuggler/)
+  - ["Balancing privacy with mental health, plus second realms w/ j43"](https://optoutpod.com/balancing-privacy-with-mental-health-plus-second-realms-w-j43/)
 
 ## 8. Use a privacy-preserving mobile operating system
 

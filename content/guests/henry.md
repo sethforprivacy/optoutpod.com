@@ -1,6 +1,6 @@
 ---
 title: "Henry from Techlore"
-date: 2022-01-21T16:22:21-05:00
+date: "2021-06-01T15:45:42-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S1E01 - Privacy as a journey and digital minimalism w/ Techlore"

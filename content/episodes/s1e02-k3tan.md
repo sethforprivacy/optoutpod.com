@@ -17,6 +17,7 @@ tags:
 - season 1
 title: Digital identity, FOSS, and self-hosting w/ k3tan
 showToc: false
+aliases: ["/s1e2"]
 ---
 
 # Episode
@@ -31,8 +32,7 @@ This week, I got the pleasure of sitting down with k3tan to chat about privacy, 
 
 ## More about k3tan:
 
-- k3tan's blog -- https://k3tan.com/
-- k3tan's Twitter -- https://twitter.com/_k3tan
+- k3tan's guest profile -- [k3tan]({{< ref "/content/guests/k3tan.md" >}})
 - Blog post on restarting your digital identity -- https://k3tan.com/starting-a-new-digital-identity
 - Blog post on self-hosting -- https://k3tan.com/self-hosting
 - Recommended FOSS software -- https://k3tan.com/foss
@@ -64,12 +64,12 @@ This week, I got the pleasure of sitting down with k3tan to chat about privacy, 
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

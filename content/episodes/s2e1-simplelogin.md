@@ -16,6 +16,7 @@ tags:
 - opt out
 title: Email aliasing w/ Son from SimpleLogin
 showToc: false
+aliases: ["/s2e1"]
 ---
 
 # Episode
@@ -30,7 +31,7 @@ Heard about email aliasing but not sure where to start? This episode, we're sitt
 
 ## More about Son:
 
-- Son's guest profile -- https://www.optoutpod.com/guests/son/ 
+- Son's guest profile -- [Son]({{< ref "/content/guests/son.md" >}})
 
 ## More about SimpleLogin:
 
@@ -42,12 +43,12 @@ Heard about email aliasing but not sure where to start? This episode, we're sitt
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

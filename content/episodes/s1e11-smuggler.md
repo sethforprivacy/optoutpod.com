@@ -19,6 +19,7 @@ tags:
 - season 1
 title: Global surveillance, VPNs, and Tor w/ Smuggler
 showToc: false
+aliases: ["/s1e11"]
 ---
 
 # Episode
@@ -33,7 +34,7 @@ Wondering how global surveillance could realistically work, or how VPNs can play
 
 More about Smuggler:
 
-- Smuggler's guest profile -- https://www.optoutpod.com/guests/smuggler/
+- Smuggler's guest profile -- [Smuggler]({{< ref "/content/guests/smuggler.md" >}})
 - Cypherpunk Bitstream Podcast -- https://taz0.org/bitstream/
 - Smuggler's blog -- https://opaque.link/
 - Smuggler's paper on global surveillance -- https://opaque.link/post/2011-06-16-global-spying/
@@ -55,12 +56,12 @@ Smuggler's recommended tools to Opt Out:
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

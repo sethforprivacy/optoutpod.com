@@ -19,6 +19,7 @@ tags:
 - season 1
 title: Privacy as a journey and digital minimalism w/ Techlore
 showToc: false
+aliases: ["/s1e1"]
 ---
 
 # Episode
@@ -33,6 +34,7 @@ This week, I got the pleasure of sitting down with Henry from Techlore to chat a
 
 ## More about Techlore:
 
+- Guest profile -- [Henry from Techlore]({{< ref "/content/guests/henry.md" >}})
 - Main website - https://techlore.tech/
 - Videos - https://techlore.tech/videos.html 
 - Surveillance Report - https://techlore.tech/sr.html
@@ -53,12 +55,12 @@ This week, I got the pleasure of sitting down with Henry from Techlore to chat a
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

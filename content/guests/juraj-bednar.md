@@ -1,6 +1,6 @@
 ---
 title: "Juraj Bednar"
-date: 2022-01-21T16:29:58-05:00
+date: "2021-08-22T15:32:55-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S1E07 - Parallel econonomies and ethical Veksláks w/ Juraj Bednar"

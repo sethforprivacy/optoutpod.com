@@ -1,6 +1,6 @@
 ---
 title: "Jeremy Soller"
-date: 2022-01-21T16:26:06-05:00
+date: "2021-09-30T15:50:51-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: Special - Coreboot, FOSS firmware, Pop_OS!, and System76 w/ Jeremy Soller"

@@ -18,6 +18,7 @@ tags:
 - season 1
 title: Mobile OS privacy, drag-net surveillance, and cryptocurrency usage w/ Max Tannahill
 showToc: false
+aliases: ["/s1e3"]
 ---
 
 # Episode
@@ -32,8 +33,7 @@ Wanting to learn more about mobile privacy, but not sure where to start? This ep
 
 ## More about Max:
 
-- Mamushi, a CalyxOS Pixel retailer -- https://mamushi.io/
-- Max's Twitter -- https://twitter.com/maxtannahill
+- Max's guest profile -- [Max Tannahill]({{< ref "/content/guests/max-tannahill.md" >}})
 - Blog post on migrating Mamushi from CopperheadOS to CalyxOS -- https://mamushi.io/2021/04/12/departing-from-copperhead/
 - Ministry of Nodes -- https://www.ministryofnodes.com.au/
 
@@ -55,12 +55,12 @@ Wanting to learn more about mobile privacy, but not sure where to start? This ep
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

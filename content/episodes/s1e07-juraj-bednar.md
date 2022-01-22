@@ -20,6 +20,7 @@ tags:
 - season 1
 title: Parallel econonomies and ethical Veksláks w/ Juraj Bednar
 showToc: false
+aliases: ["/s1e7"]
 ---
 
 # Episode
@@ -34,7 +35,7 @@ Where does privacy fit in to opting out of a broken (or breaking) economy or soc
 
 ## More about Juraj:
 
-- Juraj's guest profile -- https://www.optoutpod.com/guests/juraj-bednar/
+- Juraj's guest profile -- [Juraj Bednar]({{< ref "/content/guests/juraj-bednar.md" >}})
 - "The Second Realm", by Smuggler and XYZ -- https://anarplex.net/hosted/files/secondrealm/secondrealm.pdf
 
 ## Juraj's recommended tools to Opt Out:
@@ -57,12 +58,12 @@ Where does privacy fit in to opting out of a broken (or breaking) economy or soc
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

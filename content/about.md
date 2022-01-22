@@ -3,7 +3,7 @@ author: Seth For Privacy
 date: "2020-11-29T19:01:07-05:00"
 draft: false
 hidemeta: true
-showToc: false
+showToc: true
 title: About Opt Out
 ---
 
@@ -52,17 +52,26 @@ You can jump into the community on Matrix using the channel link below, but feel
 
 ## Donations
 
-If you've enjoyed my blog and would like to give me a little more time to dedicate to it, I'll happily take any Monero you'd like to throw my way:
+### Monero
 
-### OpenAlias
+The best way to support what I'm doing is by donating Monero, a privacy-preserving cryptocurrency, to the OpenAlias `donate@optoutpod.com` or using the QR code below. If you have questions on how to do that, or on Monero in general, please reach out at [seth@optoutpod.com](mailto:seth@optoutpod.com) and I'd be happy to help answer those questions.
 
-To use OpenAlias, just type (or paste) the following address into the "To" field in your favorite Monero wallet:
+Note that if you're viewing this on mobile, simply tap on the QR code.
 
-`donate.optoutpod.com`  
+{{< figure src="/donation.png" align="center" style="border-radius: 8px;" link="monero:89bXXFtyBhrdtVrCA8Ags3Da34QUZtgGTRAPf9aJJANh8ZvWp3qnwGxN8aQBkjRPBbGs6dn6Gd98s2hXzrWzJ3M9Jb4pXej" >}}
 
-For more info on OpenAlias, see the excellent guide by Justin [here](https://medium.com/@JEhrenhofer/openalias-the-best-cryptocurrency-wallet-feature-youve-never-heard-of-bbf4a991d0a8).
+- OpenAlias: `donate@optoutpod.com`
+- Address: `89bXXFtyBhrdtVrCA8Ags3Da34QUZtgGTRAPf9aJJANh8ZvWp3qnwGxN8aQBkjRPBbGs6dn6Gd98s2hXzrWzJ3M9Jb4pXej`
 
-### Address/QR
+For more information on Monero, see [here](https://www.getmonero.org/).
 
-{{< figure src="/donation.png" align="center" style="border-radius: 8px;" link="monero:86JzKKyZvtEC98y6zJxCCVfcA3r75XngPBjpYDE6zRR36keNGMHwZomDjMCv1oCYB2j9myiFqEJQF3JtnhKdfX546T91eaY" >}}
-`89bXXFtyBhrdtVrCA8Ags3Da34QUZtgGTRAPf9aJJANh8ZvWp3qnwGxN8aQBkjRPBbGs6dn6Gd98s2hXzrWzJ3M9Jb4pXej`
+### Bitcoin
+If you prefer Bitcoin for donations over Monero, please donate using the following PayNym.
+
+Note that if you're viewing this on mobile, simply tap on the QR code.
+
+{{< figure src="/paynym.png" align="center" style="border-radius: 8px;" link="https://paynym.is/+fallingrecipe6C9PayNym" >}}
+
+- PayNym: `+fallingrecipe6C9`
+
+For more info on PayNyms and their usage, see [here](https://samouraiwallet.com/paynym).

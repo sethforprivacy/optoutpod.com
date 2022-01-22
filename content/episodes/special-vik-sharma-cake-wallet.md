@@ -18,11 +18,12 @@ tags:
 - special
 title: Sponsor Special w/ Vik Sharma from Cake Wallet
 showToc: false
+aliases: ["/cakewallet-episode"]
 ---
 
 # Episode
 
-<div id="buzzsprout-player-9201174"></div><script src="https://www.buzzsprout.com/1790481/9201174-sponsor-special-w-vik-sharma-from-cake-wallet.js?container_id=buzzsprout-player-9201174&player=small" type="text/javascript" charset="utf-8"></script>
+<div id="buzzsprout-player-9201174"></div><script src="https://www.buzzsprout.com/1790481/9201174-special-w-vik-sharma-from-cake-wallet.js?container_id=buzzsprout-player-9201174&player=small" type="text/javascript" charset="utf-8"></script>
 
 {{< iv caBWNCGnaZ8 >}}
 
@@ -32,7 +33,7 @@ Wondering what mobile Monero wallet I use and recommend and why I chose to take 
 
 ## More about Vik Sharma:
 
-- Vik's guest profile -- https://www.optoutpod.com/guests/vik-sharma/ 
+- Vik's guest profile -- [Vik Sharma]({{< ref "/content/guests/vik-sharma.md" >}})
 
 ## More about Cake Wallet:
 
@@ -44,12 +45,12 @@ Wondering what mobile Monero wallet I use and recommend and why I chose to take 
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

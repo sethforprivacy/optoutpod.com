@@ -21,6 +21,7 @@ tags:
 title: Personal responsibility in privacy, FOSS funding models, and Bitcoin w/ Matt
   Odell
 showToc: false
+aliases: ["/s1e13"]
 ---
 
 # Episode
@@ -35,7 +36,7 @@ Wondering why FOSS and privacy have become such a focus for Matt Odell and Citad
 
 ## More about Matt Odell:
 
-- Matt Odell's guest profile -- https://www.optoutpod.com/guests/odell/
+- Matt Odell's guest profile -- [ODELL]({{< ref "/content/guests/odell.md" >}})
 - Matt's podcast, Citadel Dispatch -- https://citadeldispatch.com
 - Matt's recommended tools -- https://citadeldispatch.com/help/
 
@@ -66,12 +67,12 @@ Wondering why FOSS and privacy have become such a focus for Matt Odell and Citad
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

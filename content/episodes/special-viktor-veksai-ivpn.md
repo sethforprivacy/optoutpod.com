@@ -20,11 +20,12 @@ tags:
 - special
 title: Sponsor Special w/ Viktor Vecsei from IVPN
 showToc: false
+aliases: ["/ivpn-episode"]
 ---
 
 # Episode
 
-<div id="buzzsprout-player-9657698"></div><script src="https://www.buzzsprout.com/1790481/9657698-sponsor-special-w-viktor-vecsei-from-ivpn.js?container_id=buzzsprout-player-9657698&player=small" type="text/javascript" charset="utf-8"></script>
+<div id="buzzsprout-player-9657698"></div><script src="https://www.buzzsprout.com/1790481/9657698-special-w-viktor-vecsei-from-ivpn.js?container_id=buzzsprout-player-9657698&player=small" type="text/javascript" charset="utf-8"></script>
 
 {{< iv coyZZlV6sQo >}}
 
@@ -34,7 +35,7 @@ Wanting to find a solid VPN provider, but struggling to break through all of the
 
 ## More about Viktor:
 
-- Viktor's guest profile -- https://www.optoutpod.com/guests/viktor-vecsei/ 
+- Viktor's guest profile -- [Viktor Vecsei]({{< ref "/content/guests/viktor-vecsei.md" >}})
 
 ## More about IVPN:
 
@@ -51,12 +52,12 @@ Wanting to find a solid VPN provider, but struggling to break through all of the
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

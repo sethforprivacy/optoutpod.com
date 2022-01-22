@@ -1,6 +1,6 @@
 ---
 title: "Samourai Wallet"
-date: 2022-01-21T16:43:39-05:00
+date: 2022-01-16T16:00:00-05:00
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S2E03 - Privacy on Bitcoin w/ Samourai Wallet"

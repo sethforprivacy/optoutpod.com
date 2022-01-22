@@ -18,6 +18,7 @@ tags:
 - season 1
 title: A Bitcoiner's journey towards privacy w/ BitcoinQnA
 showToc: false
+aliases: ["/s1e14"]
 ---
 
 # Episode
@@ -32,7 +33,7 @@ Wondering what drives normal people to focus on FOSS? This episode, we're sittin
 
 ## More about QnA:
 
-- QnA's guest profile -- https://www.optoutpod.com/guests/bitcoin-qna/
+- QnA's guest profile -- [Bitcoin QnA]({{< ref "/content/guests/bitcoin-qna.md" >}})
 - QnA's full list of recommended tools -- https://bitcoiner.guide/toolkit/
 
 ## QnA's recommended tools to Opt Out:
@@ -50,16 +51,16 @@ Wondering what drives normal people to focus on FOSS? This episode, we're sittin
 ## This week's project to help you Opt Out - Pop_OS!:
 
 - Website -- https://pop.system76.com/
-- My episode with Jeremy Soller from System76 -- https://www.optoutpod.com/coreboot-foss-firmware-pop_os-and-system76-w-jeremy-soller-special/
+- My episode with Jeremy Soller from System76 -- https://optoutpod.com/coreboot-foss-firmware-pop_os-and-system76-w-jeremy-soller-special/
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

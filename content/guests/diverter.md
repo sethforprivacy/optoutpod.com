@@ -1,6 +1,6 @@
 ---
 title: "Diverter"
-date: 2022-01-21T16:13:57-05:00
+date: "2021-08-09T15:35:17-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S1E06 - PGP, Bitcoin, and Yunohost w/ Diverter"

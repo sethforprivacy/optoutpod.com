@@ -1,6 +1,6 @@
 ---
 title: "Nathan Bartram"
-date: 2022-01-21T16:35:10-05:00
+date: "2021-07-09T15:40:26-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S1E04 - Threat models and the importance of open-source software w/ Nathan from TheNewOil"

@@ -1,6 +1,6 @@
 ---
 title: "Odell"
-date: 2022-01-21T16:38:40-05:00
+date: "2021-11-13T15:18:47-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S1E13 - Personal responsibility in privacy, FOSS funding models, and Bitcoin w/ Matt Odell"

@@ -1,6 +1,6 @@
 ---
 title: "Pavol Lupták"
-date: 2022-01-21T16:41:40-05:00
+date: "2021-09-19T15:29:07-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S1E09 - Cryptoanarchy and freedom w/ Pavol Lupták"

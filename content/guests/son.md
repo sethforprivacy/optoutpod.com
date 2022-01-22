@@ -1,6 +1,6 @@
 ---
 title: "Son"
-date: 2022-01-21T16:45:23-05:00
+date: "2022-01-03T09:30:00-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S2E01 - Email aliasing w/ Son from SimpleLogin"

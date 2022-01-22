@@ -1,6 +1,6 @@
 ---
 title: "Chris Blec"
-date: 2022-01-21T16:08:05-05:00
+date: "2021-10-05T15:26:30-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S1E10 - Transitioning to Linux and CalyxOS w/ Chris Blec"

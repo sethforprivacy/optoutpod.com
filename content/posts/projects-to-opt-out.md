@@ -190,4 +190,4 @@ I've even been able to transition the little bit of PC gaming I do to Pop using 
 If you've been wanting to make the jump to Linux, I'd highly recommend checking out the links to Pop in the show notes, or listening in to my special episode with Jeremy Soller from System76 where we discussed both their hardware, open-source firmware, and Pop_OS! at length.
 
 - Website -- https://pop.system76.com/
-- My episode with Jeremy Soller from System76 -- https://www.optoutpod.com/coreboot-foss-firmware-pop_os-and-system76-w-jeremy-soller-special/
+- My episode with Jeremy Soller from System76 -- https://optoutpod.com/coreboot-foss-firmware-pop_os-and-system76-w-jeremy-soller-special/

@@ -86,9 +86,9 @@ params:
     - name: matrix
       url: "https://matrix.to/#/#optout:monero.social"
     - name: monero
-      url: "monero:89bXXFtyBhrdtVrCA8Ags3Da34QUZtgGTRAPf9aJJANh8ZvWp3qnwGxN8aQBkjRPBbGs6dn6Gd98s2hXzrWzJ3M9Jb4pXej"
+      url: "https://optoutpod.com/about/#monero"
     - name: bitcoin
-      url: "https://paynym.is/+fallingrecipe6C9"
+      url: "https://optoutpod.com/about/#bitcoin"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -119,7 +119,7 @@ menu:
       url: /episodes
       weight: 1
     - identifier: guests
-      name: Guest Profiles
+      name: Guests
       url: /guests
       weight: 2
     - identifier: posts
@@ -143,24 +143,17 @@ privacy:
   disqus:
     disable: true
   googleAnalytics:
-    anonymizeIP: false
     disable: true
-    respectDoNotTrack: false
-    useSessionStorage: false
   instagram:
     disable: true
-    simple: false
   twitter:
     disable: false
     enableDNT: false
     simple: true
   vimeo:
     disable: true
-    enableDNT: false
-    simple: false
   youtube:
     disable: true
-    privacyEnhanced: false
 markup:
   tableOfContents:
     endLevel: 2

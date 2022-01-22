@@ -19,6 +19,7 @@ tags:
 - special
 title: Coreboot, FOSS firmware, Pop_OS!, and System76 w/ Jeremy Soller
 showToc: false
+aliases: ["/system76-special"]
 ---
 
 # Episode
@@ -33,7 +34,7 @@ Have you been thinking about switching to Linux for your daily driver, or wonder
 
 ## More about Jeremy Soller:
 
-- Jeremy Soller's guest profile -- https://www.optoutpod.com/guests/jeremy-soller/ 
+- Jeremy Soller's guest profile -- [Jeremy Soller]({{< ref "/content/guests/jeremy-soller.md" >}})
 
 ## More about System76:
 
@@ -57,12 +58,12 @@ Have you been thinking about switching to Linux for your daily driver, or wonder
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

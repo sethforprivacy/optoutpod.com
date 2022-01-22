@@ -18,6 +18,7 @@ keywords:
 - season 1
 title: Decentralized and censorship-resistant messaging platforms w/ Sean O'Brien
 showToc: false
+aliases: ["/s1e8"]
 ---
 
 # Episode
@@ -32,7 +33,7 @@ Wondering what alternatives are available for Twitter or similar centralized and
 
 ## More about Sean O'Brien:
 
-- Sean O'Brien's guest profile -- https://www.optoutpod.com/guests/sean-obrien/
+- Sean O'Brien's guest profile -- [Sean O'Brien]({{< ref "/content/guests/sean-obrien.md" >}})
 - Panquake -- https://panquake.com/
 - Talk Liberation newsletter -- https://talkliberation.substack.com/
 
@@ -53,12 +54,12 @@ Wondering what alternatives are available for Twitter or similar centralized and
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

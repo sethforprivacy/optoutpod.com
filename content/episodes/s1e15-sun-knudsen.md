@@ -19,6 +19,7 @@ tags:
 - season 1
 title: Privacy education, funding, and Apple w/ Sun Knudsen
 showToc: false
+aliases: ["/s1e15"]
 ---
 
 # Episode
@@ -33,7 +34,7 @@ Wondering why someone decides to do privacy education and research full-time? Th
 
 ## More about Sun Knudsen:
 
-- Sun Knudsen's guest profile -- https://www.optoutpod.com/guests/sun-knudsen/ 
+- Sun Knudsen's guest profile -- [Sun Knudsen]({{< ref "/content/guests/sun-knudsen.md" >}})
 
 ## Sun Knudsen's recommended tools to Opt Out:
 
@@ -54,12 +55,12 @@ Wondering why someone decides to do privacy education and research full-time? Th
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-    IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+    IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

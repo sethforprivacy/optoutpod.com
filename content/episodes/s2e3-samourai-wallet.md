@@ -1,8 +1,6 @@
 ---
-title: "Privacy on Bitcoin w/ Samourai Wallet
-"
+title: "Privacy on Bitcoin w/ Samourai Wallet"
 date: 2022-01-16T16:00:00-05:00
-weight: 1
 aliases: ["/s2e3"]
 keywords:
 - privacy
@@ -32,7 +30,7 @@ Wondering how you can manage to use Bitcoin privately? This episode, we're sitti
 
 ## More about Samourai:
 
-- Samourai's guest profile -- https://www.optoutpod.com/guests/samourai-wallet/
+- Samourai's guest profile -- [Samourai Wallet]({{< ref "/content/guests/samourai-wallet.md" >}})
 
 ## More about Samourai Wallet:
 
@@ -43,12 +41,12 @@ Wondering how you can manage to use Bitcoin privately? This episode, we're sitti
 
 ## Opt Out's Sponsors:
 
-- Cake Wallet, an easy to use Monero mobile wallet -- https://www.optoutpod.com/sponsors/#sponsor-cake-wallet
-- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://www.optoutpod.com/sponsors/#sponsor-localmonero
-- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://www.optoutpod.com/sponsors/#sponsor-ivpn
+- Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet
+- LocalMonero, an excellent and privacy-preserving way to buy and sell Monero -- https://optoutpod.com/sponsors/#localmonero
+- IVPN, an ethical, no-nonsense, non-logging VPN provider -- https://optoutpod.com/sponsors/#ivpn
 
 ## Supporting Opt Out:
 
-- Donations -- https://www.optoutpod.com/support/
-- Reviews -- https://www.optoutpod.com/reviews/new/
+- Donations -- https://optoutpod.com/about/#donations
+- Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!

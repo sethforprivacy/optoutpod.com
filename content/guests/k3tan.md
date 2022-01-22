@@ -1,6 +1,6 @@
 ---
 title: "k3tan"
-date: 2022-01-21T16:33:49-05:00
+date: "2021-06-13T15:44:08-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S1E02 - Digital identity, FOSS, and self-hosting w/ k3tan"

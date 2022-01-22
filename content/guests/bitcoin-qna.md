@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin QnA"
-date: 2022-01-21T15:59:52-05:00
+date: "2021-11-28T00:00:00-05:00"
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S1E14 - A Bitcoiner's journey towards privacy w/ BitcoinQnA"
