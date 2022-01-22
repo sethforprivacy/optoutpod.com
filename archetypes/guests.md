@@ -7,6 +7,7 @@ summary: "Episode: "
 showToc: false
 disableShare: true
 hidemeta: true
+draft: true
 ---
 
 {{< figure src="/guests/filename.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
@@ -14,6 +15,7 @@ hidemeta: true
 ### Title
 
 - Website -- 
+- Email -- [](mailto:)
 - Twitter -- 
 - Instagram -- 
 - YouTube -- 
