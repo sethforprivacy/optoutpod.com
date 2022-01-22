@@ -20,7 +20,7 @@ tags:
 - season 1
 title: Transitioning to Linux and CalyxOS w/ Chris Blec
 showToc: false
-aliases: ["/s1e10"]
+aliases: ["/s1e10", "/transitioning-to-linux-and-calyxos-w-chris-blec-s01e10"]
 ---
 
 # Episode

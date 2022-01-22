@@ -21,7 +21,7 @@ tags:
 title: Personal responsibility in privacy, FOSS funding models, and Bitcoin w/ Matt
   Odell
 showToc: false
-aliases: ["/s1e13"]
+aliases: ["/s1e13", "/personal-responsibility-in-privacy-foss-funding-models-and-bitcoin-w-matt-odell"]
 ---
 
 # Episode

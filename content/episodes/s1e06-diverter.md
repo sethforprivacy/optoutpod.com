@@ -20,7 +20,7 @@ tags:
 - season 1
 title: PGP, Bitcoin, and Yunohost w/ Diverter
 showToc: false
-aliases: ["/s1e6"]
+aliases: ["/s1e6", "/pgp-bitcoin-and-yunohost"]
 ---
 
 # Episode

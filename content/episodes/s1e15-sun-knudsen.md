@@ -19,7 +19,7 @@ tags:
 - season 1
 title: Privacy education, funding, and Apple w/ Sun Knudsen
 showToc: false
-aliases: ["/s1e15"]
+aliases: ["/s1e15", "/privacy-education-funding-and-apple-w-sun-knudsen"]
 ---
 
 # Episode

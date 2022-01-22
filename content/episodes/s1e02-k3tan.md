@@ -17,7 +17,7 @@ tags:
 - season 1
 title: Digital identity, FOSS, and self-hosting w/ k3tan
 showToc: false
-aliases: ["/s1e2"]
+aliases: ["/s1e2", "/s01e02-digital-identity-foss-and-self-hosting-w-k3tan"]
 ---
 
 # Episode

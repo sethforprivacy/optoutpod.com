@@ -18,7 +18,7 @@ tags:
 - season 1
 title: Mobile OS privacy, drag-net surveillance, and cryptocurrency usage w/ Max Tannahill
 showToc: false
-aliases: ["/s1e3"]
+aliases: ["/s1e3", "/mobile-os-privacy-drag-net-surveillance-and-cryptocurrency-usage-w-max-tannahill-s01e03"]
 ---
 
 # Episode

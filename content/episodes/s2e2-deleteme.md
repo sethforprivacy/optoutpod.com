@@ -19,7 +19,7 @@ tags:
 - season 2
 title: Clean up your data online w/ Rob Shavell from DeleteMe
 showToc: false
-aliases: ["/s2e2"]
+aliases: ["/s2e2", "/clean-up-your-data-online-w-rob-shavell-from-deleteme"]
 ---
 
 # Episode

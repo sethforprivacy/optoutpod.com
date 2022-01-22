@@ -20,7 +20,7 @@ tags:
 - season 1
 title: Threat models and the importance of open-source software w/ Nathan from TheNewOil
 showToc: false
-aliases: ["/s1e4"]
+aliases: ["/s1e4", "/threat-models-and-the-importance-of-open-source-software-w-nathan-from-thenewoil"]
 ---
 
 # Episode

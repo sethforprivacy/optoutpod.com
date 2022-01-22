@@ -20,7 +20,7 @@ tags:
 - season 1
 title: Parallel econonomies and ethical Veksláks w/ Juraj Bednar
 showToc: false
-aliases: ["/s1e7"]
+aliases: ["/s1e7", "/parallel-econonomies-and-ethical-vekslaks-w-juraj"]
 ---
 
 # Episode

@@ -19,7 +19,7 @@ tags:
 - special
 title: Coreboot, FOSS firmware, Pop_OS!, and System76 w/ Jeremy Soller
 showToc: false
-aliases: ["/system76-special"]
+aliases: ["/system76-special", "/coreboot-foss-firmware-pop_os-and-system76-w-jeremy-soller-special"]
 ---
 
 # Episode

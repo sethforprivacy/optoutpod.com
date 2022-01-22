@@ -18,7 +18,7 @@ tags:
 - season 1
 title: A Bitcoiner's journey towards privacy w/ BitcoinQnA
 showToc: false
-aliases: ["/s1e14"]
+aliases: ["/s1e14", "/a-bitcoiners-journey-towards-privacy-w-bitcoinqna"]
 ---
 
 # Episode

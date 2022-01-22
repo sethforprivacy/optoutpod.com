@@ -18,7 +18,7 @@ keywords:
 - season 1
 title: Decentralized and censorship-resistant messaging platforms w/ Sean O'Brien
 showToc: false
-aliases: ["/s1e8"]
+aliases: ["/s1e8", "/decentralized-and-censorship-resistant-messaging-platforms-w-sean"]
 ---
 
 # Episode

@@ -18,7 +18,7 @@ tags:
 - special
 title: Sponsor Special w/ Vik Sharma from Cake Wallet
 showToc: false
-aliases: ["/cakewallet-episode"]
+aliases: ["/cakewallet-episode", "/sponsor-special-w-vik-sharma-from-cake-wallet"]
 ---
 
 # Episode

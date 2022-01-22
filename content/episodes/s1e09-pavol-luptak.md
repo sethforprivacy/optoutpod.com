@@ -19,7 +19,7 @@ tags:
 - season 1
 title: Cryptoanarchy and freedom w/ Pavol Lupták
 showToc: false
-aliases: ["/s1e9"]
+aliases: ["/s1e9", "/cryptoanarchy-and-freedom-w-pavol-luptak"]
 ---
 
 # Episode

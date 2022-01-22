@@ -20,7 +20,7 @@ tags:
 - special
 title: Sponsor Special w/ Viktor Vecsei from IVPN
 showToc: false
-aliases: ["/ivpn-episode"]
+aliases: ["/sponsor-special-ivpn"]
 ---
 
 # Episode

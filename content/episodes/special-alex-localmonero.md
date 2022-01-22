@@ -18,7 +18,7 @@ tags:
 - special
 title: Sponsor Special w/ Alex from LocalMonero and AgoraDesk
 showToc: false
-aliases: ["/localmonero-episode"]
+aliases: ["/localmonero-episode", "/sponsor-special-w-alex-from-localmonero-and-agoradesk"]
 ---
 
 # Episode

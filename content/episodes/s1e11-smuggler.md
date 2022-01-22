@@ -19,7 +19,7 @@ tags:
 - season 1
 title: Global surveillance, VPNs, and Tor w/ Smuggler
 showToc: false
-aliases: ["/s1e11"]
+aliases: ["/s1e11", "/global-surveillance-vpns-and-tor-w-smuggler"]
 ---
 
 # Episode

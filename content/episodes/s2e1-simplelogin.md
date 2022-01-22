@@ -16,7 +16,7 @@ tags:
 - opt out
 title: Email aliasing w/ Son from SimpleLogin
 showToc: false
-aliases: ["/s2e1"]
+aliases: ["/s2e1", "/email-aliasing-w-son-from-simplelogin"]
 ---
 
 # Episode

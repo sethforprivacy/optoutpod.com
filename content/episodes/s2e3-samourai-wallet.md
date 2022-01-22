@@ -1,7 +1,7 @@
 ---
 title: "Privacy on Bitcoin w/ Samourai Wallet"
 date: 2022-01-16T16:00:00-05:00
-aliases: ["/s2e3"]
+aliases: ["/s2e3", "/privacy-on-bitcoin-w-samourai-wallet"]
 keywords:
 - privacy
 - podcast

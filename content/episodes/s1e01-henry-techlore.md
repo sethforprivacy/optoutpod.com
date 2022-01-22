@@ -19,7 +19,7 @@ tags:
 - season 1
 title: Privacy as a journey and digital minimalism w/ Techlore
 showToc: false
-aliases: ["/s1e1"]
+aliases: ["/s1e1", "/s01e01-privacy-as-a-journey-and-digital-minimalism-w-techlore"]
 ---
 
 # Episode
