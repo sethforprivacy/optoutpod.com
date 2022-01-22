@@ -2,7 +2,7 @@
 title: "Securing your Bitcoin w/ Zach Herbert from FOUNDATION"
 date: 2022-01-23T16:00:00-05:00
 publishDate: 2022-01-23T16:00:00-05:00
-aliases: ["/s2e04"]
+aliases: ["/s2e4"]
 keywords:
 - privacy
 - podcast
