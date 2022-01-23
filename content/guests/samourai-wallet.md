@@ -21,4 +21,4 @@ hidemeta: true
 
 #### Episodes
 
-- [S2E03 - Privacy on Bitcoin w/ Samourai Wallet]({{< ref "/content/episodes/s2e3-samourai-wallet.md" >}})
+- [S2E03 - Privacy on Bitcoin w/ Samourai Wallet]({{< ref "/content/episodes/s2e03-samourai-wallet.md" >}})
