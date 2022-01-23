@@ -19,4 +19,4 @@ hidemeta: true
 
 #### Episodes
 
-- [S2E02 - Clean up your data online w/ Rob Shavell from DeleteMe]({{< ref "/content/episodes/s2e2-deleteme.md" >}})
+- [S2E02 - Clean up your data online w/ Rob Shavell from DeleteMe]({{< ref "/content/episodes/s2e02-deleteme.md" >}})
