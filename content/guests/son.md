@@ -19,4 +19,4 @@ hidemeta: true
 - Twitter -- https://twitter.com/nguyenkims
 #### Episodes
 
-- [S2E01 - Email aliasing w/ Son from SimpleLogin]({{< ref "/content/episodes/s2e1-simplelogin.md" >}})
+- [S2E01 - Email aliasing w/ Son from SimpleLogin]({{< ref "/content/episodes/s2e01-simplelogin.md" >}})
