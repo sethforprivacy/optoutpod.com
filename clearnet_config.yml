@@ -82,6 +82,8 @@ params:
       url: "https://videos.optoutpod.com"
     - name: twitter
       url: "https://twitter.com/optoutpod"
+    - name: reddit
+      url: "https://www.reddit.com/r/optoutpod/"
     - name: email
       url: "mailto:seth@optoutpod.com"
     - name: matrix
