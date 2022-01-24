@@ -46,7 +46,7 @@ params:
     iconHeight: 35
   
   homeInfoParams:
-    Title: "Welcome to Opt Out Podcast \U0001F44B"
+    Title: "Welcome to Opt Out \U0001F44B"
     Content: >
       - Opt Out is a podcast where I sit down with passionate people to learn why privacy matters to them, the tools and techniques they’ve found and leveraged, and where we encourage and inspire others towards personal privacy and data-sovereignty.
       
@@ -60,7 +60,12 @@ params:
 
       -
 
-      - ***For direct links to more ways to listen to Opt Out, see [Ways To Listen](/about/#ways-to-listen).***
+      - ***Jump into the latest episodes directly below:***
+
+      -
+
+
+      <div id='buzzsprout-large-player-limit-5'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1790481.js?artist=&container_id=buzzsprout-large-player-limit-5&limit=5&player=large'></script>
 
   socialIcons:
     - name: rss
