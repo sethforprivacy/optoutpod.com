@@ -26,7 +26,7 @@ aliases: ["/s1e5", "/privacy-by-default"]
 
 <div id="buzzsprout-player-8927275"></div><script src="https://www.buzzsprout.com/1790481/8927275-privacy-by-default-contributing-to-foss-and-monero-w-justin-ehrenhofer.js?container_id=buzzsprout-player-8927275&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< iv pizQqdS6-Nk >}}
+{{< youtube pizQqdS6-Nk >}}
 
 # Show Notes
 

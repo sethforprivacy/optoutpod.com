@@ -26,7 +26,7 @@ aliases: ["/system76-special", "/coreboot-foss-firmware-pop_os-and-system76-w-je
 
 <div id="buzzsprout-player-9290182"></div><script src="https://www.buzzsprout.com/1790481/9290182-coreboot-foss-firmware-pop_os-and-system76-w-jeremy-soller.js?container_id=buzzsprout-player-9290182&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< iv 34B4Lz_yr1k >}}
+{{< youtube 34B4Lz_yr1k >}}
 
 # Show Notes
 

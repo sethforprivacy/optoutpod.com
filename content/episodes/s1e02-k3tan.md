@@ -24,7 +24,7 @@ aliases: ["/s1e2", "/s01e02-digital-identity-foss-and-self-hosting-w-k3tan"]
 
 <div id="buzzsprout-player-8696168"></div><script src="https://www.buzzsprout.com/1790481/8696168-digital-identity-foss-and-self-hosting-w-k3tan.js?container_id=buzzsprout-player-8696168&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< iv YsQCwqtPqT4 >}}
+{{< youtube YsQCwqtPqT4 >}}
 
 # Show Notes
 

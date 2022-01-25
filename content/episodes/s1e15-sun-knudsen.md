@@ -26,7 +26,7 @@ aliases: ["/s1e15", "/privacy-education-funding-and-apple-w-sun-knudsen"]
 
 <div id="buzzsprout-player-9763338"></div><script src="https://www.buzzsprout.com/1790481/9763338-privacy-education-funding-and-apple-w-sun-knudsen.js?container_id=buzzsprout-player-9763338&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< iv 0KWn5zgld8M >}}
+{{< youtube 0KWn5zgld8M >}}
 
 # Show Notes
 

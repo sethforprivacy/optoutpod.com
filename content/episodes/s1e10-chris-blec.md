@@ -27,7 +27,7 @@ aliases: ["/s1e10", "/transitioning-to-linux-and-calyxos-w-chris-blec-s01e10"]
 
 <div id="buzzsprout-player-9295037"></div><script src="https://www.buzzsprout.com/1790481/9295037-transitioning-to-linux-and-calyxos-w-chris-blec.js?container_id=buzzsprout-player-9295037&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< iv YoSLBdZ3Yi4 >}}
+{{< youtube YoSLBdZ3Yi4 >}}
 
 # Show Notes
 

@@ -25,7 +25,7 @@ aliases: ["/s1e14", "/a-bitcoiners-journey-towards-privacy-w-bitcoinqna"]
 
 <div id="buzzsprout-player-9626656"></div><script src="https://www.buzzsprout.com/1790481/9626656-a-bitcoiner-s-journey-towards-privacy-w-bitcoinqna.js?container_id=buzzsprout-player-9626656&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< iv coyZZlV6sQo >}}
+{{< youtube coyZZlV6sQo >}}
 
 # Show Notes
 

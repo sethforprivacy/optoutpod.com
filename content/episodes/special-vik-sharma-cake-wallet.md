@@ -25,7 +25,7 @@ aliases: ["/cakewallet-episode", "/sponsor-special-w-vik-sharma-from-cake-wallet
 
 <div id="buzzsprout-player-9201174"></div><script src="https://www.buzzsprout.com/1790481/9201174-special-w-vik-sharma-from-cake-wallet.js?container_id=buzzsprout-player-9201174&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< iv caBWNCGnaZ8 >}}
+{{< youtube caBWNCGnaZ8 >}}
 
 # Show Notes
 

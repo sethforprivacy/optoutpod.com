@@ -23,7 +23,7 @@ aliases: ["/s2e1", "/email-aliasing-w-son-from-simplelogin"]
 
 <div id="buzzsprout-player-9820513"></div><script src="https://www.buzzsprout.com/1790481/9820513-email-aliasing-w-son-from-simplelogin.js?container_id=buzzsprout-player-9820513&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< iv ch8wE3v6MTY >}}
+{{< youtube ch8wE3v6MTY >}}
 
 # Show Notes
 

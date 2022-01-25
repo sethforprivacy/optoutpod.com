@@ -26,7 +26,7 @@ aliases: ["/s1e9", "/cryptoanarchy-and-freedom-w-pavol-luptak"]
 
 <div id="buzzsprout-player-9218232"></div><script src="https://www.buzzsprout.com/1790481/9218232-cryptoanarchy-and-freedom-w-pavol-luptak.js?container_id=buzzsprout-player-9218232&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< iv yLImfepdcfs >}}
+{{< youtube yLImfepdcfs >}}
 
 # Show Notes
 
