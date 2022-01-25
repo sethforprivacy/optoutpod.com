@@ -56,12 +56,12 @@ params:
 
       -
 
-      - ***Jump into the latest episodes directly below:***
+      - ***Jump into the latest episode directly below:***
 
       -
 
 
-      <div id='buzzsprout-large-player-limit-5'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1790481.js?artist=&container_id=buzzsprout-large-player-limit-5&limit=5&player=large'></script>
+      <div id='buzzsprout-small-player'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1790481.js?container_id=buzzsprout-small-player&player=small'></script>
 
 
   socialIcons:
