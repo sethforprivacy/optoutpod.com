@@ -27,7 +27,9 @@ aliases: ["/s1e7", "/parallel-econonomies-and-ethical-vekslaks-w-juraj"]
 
 <div id="buzzsprout-player-9068459"></div><script src="https://www.buzzsprout.com/1790481/9068459-parallel-econonomies-and-ethical-vekslaks-w-juraj-bednar.js?container_id=buzzsprout-player-9068459&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube hCE-FbK81l8 >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=hCE-FbK81l8>
 
 # Show Notes
 

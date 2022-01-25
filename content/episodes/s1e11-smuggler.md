@@ -26,7 +26,9 @@ aliases: ["/s1e11", "/global-surveillance-vpns-and-tor-w-smuggler"]
 
 <div id="buzzsprout-player-9385440"></div><script src="https://www.buzzsprout.com/1790481/9385440-global-surveillance-vpns-and-tor-w-smuggler.js?container_id=buzzsprout-player-9385440&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube tbeNRjrkqlA >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=tbeNRjrkqlA>
 
 # Show Notes
 

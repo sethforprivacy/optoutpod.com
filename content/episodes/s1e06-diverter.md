@@ -27,7 +27,9 @@ aliases: ["/s1e6", "/pgp-bitcoin-and-yunohost"]
 
 <div id="buzzsprout-player-9000082"></div><script src="https://www.buzzsprout.com/1790481/9000082-pgp-bitcoin-and-yunohost-w-diverter.js?container_id=buzzsprout-player-9000082&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube wwELmkADsN0 >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=wwELmkADsN0>
 
 # Show Notes
 

@@ -26,7 +26,9 @@ aliases: ["/s2e2", "/clean-up-your-data-online-w-rob-shavell-from-deleteme"]
 
 <div id="buzzsprout-player-9846883"></div><script src="https://www.buzzsprout.com/1790481/9846883-clean-up-your-data-online-w-rob-shavell-from-deleteme.js?container_id=buzzsprout-player-9846883&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube HofXIcLCs_g >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=HofXIcLCs_g>
 
 # Show Notes
 

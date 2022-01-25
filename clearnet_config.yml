@@ -156,8 +156,7 @@ privacy:
   vimeo:
     disable: true
   youtube:
-    disable: false
-    privacyEnhanced: true
+    disable: true
 markup:
   tableOfContents:
     endLevel: 2

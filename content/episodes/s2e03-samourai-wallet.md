@@ -22,7 +22,9 @@ draft: false
 
 <div id="buzzsprout-player-9891165"></div><script src="https://www.buzzsprout.com/1790481/9891165-privacy-on-bitcoin-w-samourai-wallet.js?container_id=buzzsprout-player-9891165&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube mD_mLbpYV0U >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=mD_mLbpYV0U>
 
 # Show Notes
 

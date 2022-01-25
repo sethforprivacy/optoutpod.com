@@ -27,7 +27,9 @@ aliases: ["/sponsor-special-ivpn"]
 
 <div id="buzzsprout-player-9657698"></div><script src="https://www.buzzsprout.com/1790481/9657698-special-w-viktor-vecsei-from-ivpn.js?container_id=buzzsprout-player-9657698&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube coyZZlV6sQo >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=coyZZlV6sQo>
 
 # Show Notes
 

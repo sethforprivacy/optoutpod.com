@@ -27,7 +27,9 @@ aliases: ["/s1e4", "/threat-models-and-the-importance-of-open-source-software-w-
 
 <div id="buzzsprout-player-8835066"></div><script src="https://www.buzzsprout.com/1790481/8835066-threat-models-and-the-importance-of-open-source-software-w-nathan-from-thenewoil.js?container_id=buzzsprout-player-8835066&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube cpq3O1qjJHY >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=cpq3O1qjJHY>
 
 # Show Notes
 

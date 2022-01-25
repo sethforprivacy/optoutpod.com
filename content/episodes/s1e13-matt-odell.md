@@ -28,7 +28,9 @@ aliases: ["/s1e13", "/personal-responsibility-in-privacy-foss-funding-models-and
 
 <div id="buzzsprout-player-9542461"></div><script src="https://www.buzzsprout.com/1790481/9542461-personal-responsibility-in-privacy-foss-funding-models-and-bitcoin-w-matt-odell.js?container_id=buzzsprout-player-9542461&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube 7TbpvcAE5Eg >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=7TbpvcAE5Eg>
 
 # Show Notes
 

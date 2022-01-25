@@ -25,7 +25,9 @@ aliases: ["/s1e3", "/mobile-os-privacy-drag-net-surveillance-and-cryptocurrency-
 
 <div id="buzzsprout-player-8768809"></div><script src="https://www.buzzsprout.com/1790481/8768809-mobile-os-privacy-drag-net-surveillance-and-cryptocurrency-usage-w-max-tannahill.js?container_id=buzzsprout-player-8768809&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube LexE1emIRLE >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=LexE1emIRLE>
 
 # Show Notes
 

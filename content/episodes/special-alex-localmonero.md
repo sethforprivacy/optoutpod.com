@@ -25,7 +25,9 @@ aliases: ["/localmonero-episode", "/sponsor-special-w-alex-from-localmonero-and-
 
 <div id="buzzsprout-player-9201187"></div><script src="https://www.buzzsprout.com/1790481/9201187-special-w-alex-from-localmonero-and-agoradesk.js?container_id=buzzsprout-player-9201187&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube ZKDhMcXAo0s >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=ZKDhMcXAo0s>
 
 # Show Notes
 

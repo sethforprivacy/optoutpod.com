@@ -26,7 +26,9 @@ aliases: ["/s1e1", "/s01e01-privacy-as-a-journey-and-digital-minimalism-w-techlo
 
 <div id="buzzsprout-player-8628013"></div><script src="https://www.buzzsprout.com/1790481/8628013-privacy-as-a-journey-and-digital-minimalism-w-techlore.js?container_id=buzzsprout-player-8628013&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube QofIilxeJ00 >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=QofIilxeJ00>
 
 # Show Notes
 

@@ -23,7 +23,9 @@ aliases: ["/s2e1", "/email-aliasing-w-son-from-simplelogin"]
 
 <div id="buzzsprout-player-9820513"></div><script src="https://www.buzzsprout.com/1790481/9820513-email-aliasing-w-son-from-simplelogin.js?container_id=buzzsprout-player-9820513&player=small" type="text/javascript" charset="utf-8"></script>
 
-{{< youtube ch8wE3v6MTY >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <https://www.youtube.com/watch?v=ch8wE3v6MTY>
 
 # Show Notes
 
