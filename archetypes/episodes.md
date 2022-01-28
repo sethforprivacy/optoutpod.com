@@ -23,7 +23,9 @@ draft: true
 
 
 
-{{< iv 0KWn5zgld8M >}}
+For the video version of the episode (or for closed captions and translations), see YouTube: 
+
+- <>
 
 # Show Notes
 

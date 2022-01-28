@@ -1,13 +1,14 @@
 ---
 title: "Harry Halpin"
-date: 2022-01-22T13:01:38-05:00
+date: 2022-01-30T16:00:00-05:00
+publishDate: 2022-01-30T16:00:00-05:00
 tags: []
 author: "Seth For Privacy"
-summary: "Episode: "
+summary: "Episode: S2E05 - Privacy-preserving networks w/ Harry Halpin from Nym"
 showToc: false
 disableShare: true
 hidemeta: true
-draft: true
+draft: false
 ---
 
 {{< figure src="/guests/harryhalpin.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
@@ -24,4 +25,4 @@ draft: true
 
 #### Episodes
 
-- [SXEXX - Episode Title]({{< ref "/content/episodes/episode.md" >}})
+- [S2E05 - Privacy-preserving networks w/ Harry Halpin from Nym]({{< ref "/content/episodes/s2e05-nym.md" >}})
