@@ -1,7 +1,7 @@
 ---
 title: "Privacy-preserving networks w/ Harry Halpin from Nym"
-date: 2022-01-30T16:00:00-05:00
-publishDate: 2022-01-30T16:00:00-05:00
+date: 2022-01-30T14:00:00-05:00
+publishDate: 2022-01-30T14:00:00-05:00
 aliases: ["/s2e5"]
 keywords:
 - privacy

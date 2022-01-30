@@ -31,10 +31,6 @@ For the video version of the episode (or for closed captions and translations), 
 
 
 
-## This week's project to help you Opt Out - :
-
-
-
 ## Opt Out's Sponsors:
 
 - Cake Wallet, an easy to use Monero mobile wallet -- https://optoutpod.com/sponsors/#cake-wallet

@@ -5,7 +5,7 @@ tags: ["sponsors", "Cake Wallet", "LocalMonero", "IVPN"]
 author: "Seth For Privacy"
 description: ""
 hidemeta: true
-showToc: false
+showToc: true
 ---
 
 # Introduction
