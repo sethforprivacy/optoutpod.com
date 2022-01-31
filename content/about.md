@@ -70,7 +70,7 @@ If you prefer Bitcoin for donations over Monero, please donate using the followi
 
 Note that if you're viewing this on mobile, simply tap on the QR code.
 
-{{< figure src="/paynym.png" align="center" style="border-radius: 8px;" link="https://paynym.is/+fallingrecipe6C9PayNym" >}}
+{{< figure src="/paynym.png" align="center" style="border-radius: 8px;" link="https://paynym.is/+fallingrecipe6C9" >}}
 
 - PayNym: `+fallingrecipe6C9`
 
