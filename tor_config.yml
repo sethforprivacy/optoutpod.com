@@ -15,7 +15,7 @@ minify:
 params:
   env: production
   title: Opt Out Podcast
-  description: "Welcome to Opt Out, where I sit down with passionate people to learn why privacy matters to them, the tools and techniques they’ve found and leveraged, and where we encourage and inspire others towards personal privacy and data-sovereignty."
+  description: "Welcome to Opt Out, the podcast focused on helping you opt out of surveillance capitalism and learn more about how you can take back your privacy + data-sovereignty."
   author: Seth For Privacy
   DateFormat: "January 2, 2006"
   defaultTheme: dark
