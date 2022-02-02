@@ -3,7 +3,7 @@ publishDir: tor
 title: Opt Out Podcast
 theme: PaperMod
 
-enableRobotsTXT: true
+enableRobotsTXT: false
 buildDrafts: false
 buildFuture: false
 buildExpired: false
