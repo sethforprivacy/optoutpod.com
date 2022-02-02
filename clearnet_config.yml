@@ -22,7 +22,7 @@ params:
   disableThemeToggle: false
 
   images:
-    - /images/opt-out_thumbnail_youtube.png
+    - /images/og-image.png
 
   ShowReadingTime: false
   ShowShareButtons: true
