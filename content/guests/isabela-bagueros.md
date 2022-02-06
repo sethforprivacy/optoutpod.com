@@ -1,7 +1,7 @@
 ---
 title: "Isabela Bagueros"
-date: 2022-01-22T13:04:15-05:00
-publishDate: 2022-02-06T16:00:00-05:00
+date: 2022-02-06T15:00:00-05:00
+publishDate: 2022-02-06T15:00:00-05:00
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S2E06 - Network privacy via Tor w/ Isabela Bagueros from the Tor Project"

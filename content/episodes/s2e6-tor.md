@@ -1,7 +1,7 @@
 ---
 title: "Network privacy via Tor w/ Isabela Bagueros from the Tor Project"
-date: 2022-02-03T14:59:27-05:00
-publishDate: 2022-02-06T16:00:00-05:00
+date: 2022-02-06T15:00:00-05:00
+publishDate: 2022-02-06T15:00:00-05:00
 aliases: ["/s2e6"]
 keywords:
 - privacy
