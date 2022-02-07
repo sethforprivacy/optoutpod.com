@@ -39,7 +39,7 @@ See below for a list of direct links to Opt Out on the most common platforms:
 ## How To Contact Me  
 
 - [Twitter](https://twitter.com/optoutpod) - `@optoutpod`  
-- [Matrix](https://matrix.to/#/@sethsimmons:monero.social) - `@sethforprivacy:matrix.optoutpod.com`  
+- [Matrix](https://matrix.to/#/@sethforprivacy:matrix.optoutpod.com) - `@sethforprivacy:matrix.optoutpod.com`  
 - [Threema](https://threema.id/WBAAN4ZA) - `WBAAN4ZA`  
 - [Email](mailto:seth@optoutpod.com) - `seth@optoutpod.com`
 
