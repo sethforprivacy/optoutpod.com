@@ -39,9 +39,8 @@ See below for a list of direct links to Opt Out on the most common platforms:
 ## How To Contact Me  
 
 - [Twitter](https://twitter.com/optoutpod) - `@optoutpod`  
-- [Matrix](https://matrix.to/#/@sethsimmons:monero.social) - `@sethsimmons:monero.social`  
+- [Matrix](https://matrix.to/#/@sethsimmons:monero.social) - `@sethforprivacy:matrix.optoutpod.com`  
 - [Threema](https://threema.id/WBAAN4ZA) - `WBAAN4ZA`  
-- [Cwtch](https://cwtch.im/)- `eitasbh6bzqpwyrzlu67bb2pygqba34yxertepupyvuuukvgwfofdyyd`  
 - [Email](mailto:seth@optoutpod.com) - `seth@optoutpod.com`
 
 ## Opt Out Community Channels

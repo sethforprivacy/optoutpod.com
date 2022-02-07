@@ -91,7 +91,7 @@ params:
     - name: email
       url: "mailto:seth@optoutpod.com"
     - name: matrix
-      url: "https://matrix.to/#/#optout:monero.social"
+      url: "https://matrix.to/#/#optout-general:matrix.optoutpod.com"
     - name: monero
       url: "https://optoutpod.com/about/#monero"
     - name: bitcoin
