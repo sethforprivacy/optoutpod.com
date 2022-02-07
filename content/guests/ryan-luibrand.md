@@ -20,4 +20,4 @@ draft: true
 
 #### Episodes
 
-- [SXEXX - Episode Title]({{< ref "/content/episodes/episode.md" >}})
+- [SXEXX - Episode Title]({{< ref "/content/episodes/s2e09-bitwarden.md" >}})

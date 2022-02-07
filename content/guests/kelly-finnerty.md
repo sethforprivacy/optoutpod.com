@@ -15,7 +15,6 @@ draft: true
 ### Director of Brand
 
 > Kelly Finnerty is the Director of Brand for Startpage, a privacy technology and creators of the world's most private search engine that does not collect any personal data or save people’s search history. Kelly has worked in Buenos Aires, London, New York and now LA helping to build and grow digital first brands. 
-
 > In her role at Startpage, Kelly interfaces with their global team and audience to develop and promote new features that help people protect their online privacy.
 
 - Website -- https://www.startpage.com/
@@ -25,4 +24,4 @@ draft: true
 
 #### Episodes
 
-- [SXEXX - Episode Title]({{< ref "/content/episodes/episode.md" >}})
+- [SXEXX - Episode Title]({{< ref "/content/episodes/s2e08-startpage.md" >}})

@@ -24,4 +24,4 @@ draft: false
 
 #### Episodes
 
-- [S2E06 - Network privacy via Tor w/ Isabela Bagueros from the Tor Project]({{< ref "/content/episodes/s2e6-tor.md" >}})
+- [S2E06 - Network privacy via Tor w/ Isabela Bagueros from the Tor Project]({{< ref "/content/episodes/s2e06-tor.md" >}})

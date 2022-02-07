@@ -16,9 +16,7 @@ draft: false
 ### CEO
 
 > Zach Herbert is Cofounder and CEO of Foundation Devices, a startup working to build the open hardware foundation for Bitcoin and the sovereign Internet.
-
 > Zach studied mechanical engineering at Boston University and dropped out of Harvard Business School's MBA program after his first year.
-
 > Zach is passionate about Bitcoin, sovereign tech, product design, and hardware.
 
 - Website -- https://foundationdevices.com
