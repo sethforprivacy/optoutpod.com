@@ -16,7 +16,7 @@ As I often talk about on the podcast, finding a community that can support, enco
 
 # Why Matrix?
 
-The Opt Out community is focused around Matrix, an open-source, federated, and encrypted chat platform that enables large group chats easily. Matrix has many differenct clients available, and is a rapidly growing protocol and platform for privacy-preserving chats.
+The Opt Out community is focused around Matrix, an open-source, federated, and encrypted chat platform that enables large group chats easily. Matrix has many different clients available, and is a rapidly growing protocol and platform for privacy-preserving chats.
 
 You can view Matrix as a modernized IRC or simplified Discord that is improving quickly and is focused on user-privacy and data-sovereignty.
 
