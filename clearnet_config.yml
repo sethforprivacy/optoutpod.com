@@ -28,14 +28,14 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
+  ShowCodeCopyButtons: false
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
-  hidemeta: false
+  hidemeta: true
   hideSummary: false
   showtoc: true
-  tocopen: true
+  tocopen: false
 
   mainSections: episodes
 
@@ -46,7 +46,8 @@ params:
   label:
     text: "Home"
     icon: /favicon.ico
-    iconHeight: 35
+    iconHeight: 70
+    iconWidth: 70
   
   homeInfoParams:
     Title: "Welcome to Opt Out \U0001F44B"

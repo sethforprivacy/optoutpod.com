@@ -47,13 +47,18 @@ See below for a list of direct links to Opt Out on the most common platforms:
 
 You can jump into the community on Matrix using the channel link below, but feel free to [reach out](#how-to-contact-me) to recommend a new channel or community location:
 
-- [Opt Out Podcast Matrix](https://matrix.to/#/#optout:monero.social)
+- [Opt Out Podcast Matrix](https://matrix.to/#/#optout-general:matrix.optoutpod.com)
+- [r/optoutpod](https://reddit.com/r/optoutpod)
+
+If you're new to Matrix, be sure to see the guide on getting started and joining the Opt Out channel below:
+
+- [Come join the growing Opt Out community on Matrix]({{< ref "/content/posts/come-join-opt-out-on-matrix.md" >}})
 
 ## Donations
 
 ### Monero
 
-The best way to support what I'm doing is by donating Monero, a privacy-preserving cryptocurrency, to the OpenAlias `donate@optoutpod.com` or using the QR code below. If you have questions on how to do that, or on Monero in general, please reach out at [seth@optoutpod.com](mailto:seth@optoutpod.com) and I'd be happy to help answer those questions.
+The best way to financially support what I'm doing is by donating Monero, a privacy-preserving cryptocurrency, to the OpenAlias `donate@optoutpod.com` or using the QR code below. If you have questions on how to do that, or on Monero in general, please reach out at [seth@optoutpod.com](mailto:seth@optoutpod.com) and I'd be happy to help answer those questions.
 
 Note that if you're viewing this on mobile, simply tap on the QR code.
 
