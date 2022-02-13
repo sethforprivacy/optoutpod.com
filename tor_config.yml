@@ -46,8 +46,8 @@ params:
   label:
     text: "Home"
     icon: /favicon.ico
-    iconHeight: 70
-    iconWidth: 70
+    iconHeight: 35
+    iconWidth: 35
   
   homeInfoParams:
     Title: "Welcome to Opt Out Podcast \U0001F44B"
@@ -65,7 +65,7 @@ params:
       -
 
 
-      <div id="buzzsprout-player-9966328"></div><script src="https://www.buzzsprout.com/1790481/9966328-network-privacy-via-tor-w-isabela-bagueros-from-the-tor-project.js?container_id=buzzsprout-player-9966328&player=small" type="text/javascript" charset="utf-8"></script>
+      <div id="buzzsprout-player-10066604"></div><script src="https://www.buzzsprout.com/1790481/10066604-application-firewalls-w-david-and-daniel-from-safing-io.js?container_id=buzzsprout-player-10066604&player=small" type="text/javascript" charset="utf-8"></script>
 
 
   socialIcons:

@@ -21,11 +21,11 @@ draft: true
 
 # Episode
 
-
+<div id="buzzsprout-player-10066604"></div><script src="https://www.buzzsprout.com/1790481/10066604-application-firewalls-w-david-and-daniel-from-safing-io.js?container_id=buzzsprout-player-10066604&player=small" type="text/javascript" charset="utf-8"></script>
 
 For the video version of the episode (or for closed captions and translations), see YouTube: 
 
-- <>
+- <https://www.youtube.com/watch?v=XPihcCCtMLQ>
 
 # Show Notes
 
