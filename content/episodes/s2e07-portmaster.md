@@ -1,7 +1,7 @@
 ---
 title: "Application privacy via Portmaster w/ David and Daniel from Safing.io"
-date: 2022-02-13T16:00:00-05:00
-publishDate: 2022-02-13T16:00:00-05:00
+date: 2022-02-13T15:00:00-05:00
+publishDate: 2022-02-13T15:00:00-05:00
 aliases: ["/s2e7"]
 keywords:
 - privacy
