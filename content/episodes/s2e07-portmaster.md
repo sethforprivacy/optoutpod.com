@@ -16,7 +16,7 @@ tags:
 author: "Seth For Privacy"
 summary: "Heard about application firewalls and tools like Little Snitch on Mac, but not sure where to start? This episode, we're sitting down with David and Daniel from Safing to chat about their project, Portmaster."
 showToc: false
-draft: true
+draft: false
 ---
 
 # Episode
