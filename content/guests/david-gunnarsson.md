@@ -9,6 +9,8 @@ showToc: false
 disableShare: true
 hidemeta: true
 draft: false
+cover:
+    image: /guests/davidgunnarsson.jpeg
 ---
 
 {{< figure src="/guests/davidgunnarsson.jpeg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

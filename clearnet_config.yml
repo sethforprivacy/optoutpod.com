@@ -36,6 +36,8 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  cover:
+    hidden: true
 
   mainSections: episodes
 
