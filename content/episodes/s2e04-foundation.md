@@ -23,7 +23,7 @@ draft: false
 
 <div id="buzzsprout-player-9910604"></div><script src="https://www.buzzsprout.com/1790481/9910604-securing-your-bitcoin-w-zach-herbert-from-foundation.js?container_id=buzzsprout-player-9910604&player=small" type="text/javascript" charset="utf-8"></script>
 
-For the video version of the episode (or for closed captions and translations), see YouTube: 
+For the video version of the episode (or for closed captions and translations), see YouTube:
 
 - <https://www.youtube.com/watch?v=K6MOQruWsnQ>
 
@@ -33,7 +33,7 @@ Wondering how you can secure and spend your Bitcoin without trusting a centraliz
 
 ## More about Zach Herbert:
 
-- Zach's guest profile -- https://www.optoutpod.com/guests/zach-herbert/
+- Zach's guest profile -- https://optoutpod.com/guests/zach-herbert/
 
 ## More about FOUNDATION devices:
 

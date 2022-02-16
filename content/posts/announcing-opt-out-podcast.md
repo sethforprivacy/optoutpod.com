@@ -41,6 +41,6 @@ You can also follow the show on Twitter [@optoutpod](https://twitter.com/optoutp
 
 ## How to support Opt Out
 
-If you like what I'm doing at Opt Out, you can support the podcast by sharing it with your friends, posting about it on social media, suggesting questions and guests for the show, or [donating to help pay for operating costs](/about/#donations).
+If you like what I'm doing at Opt Out, you can support the podcast by sharing it with your friends, posting about it on social media, suggesting questions and guests for the show, or [donating to help pay for operating costs]({{< ref "/content/about.md#donations" >}}).
 
 Thanks in advance for listening, and I hope you learn as much as I do each episode!

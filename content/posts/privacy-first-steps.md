@@ -146,7 +146,7 @@ I have used both of the below VPNs extensively and they also come recommended by
 To help you make your own well-informed choices, here are some excellent resources:
 
 - [IVPN's own tool, "Do I need a VPN?"](https://www.doineedavpn.com/)
-- [Techlore's incredible VPN toolkit](https://www.doineedavpn.com/)
+- [Techlore's incredible VPN toolkit](https://techlore.tech/vpnchart.html)
 - Two episodes of [Opt Out](https://optoutpod.com/) focused on VPNs and Tor:
   - ["Global surveillance, VPNs, and Tor w/ Smuggler"](https://optoutpod.com/global-surveillance-vpns-and-tor-w-smuggler/)
   - ["Balancing privacy with mental health, plus second realms w/ j43"](https://optoutpod.com/balancing-privacy-with-mental-health-plus-second-realms-w-j43/)
@@ -159,7 +159,7 @@ The only real recommendation I have here is below, but note that for some threat
 
 - [CalyxOS](https://calyxos.org/)
   - I've long been a huge fan of CalyxOS, have run it for almost a year, and am a financial supporter of the [Calyx Institute](https://calyxos.org/), the non-profit organization behind CalyxOS. CalyxOS is an incredibly powerful tool, one that takes the open-source Android operating system created by Google and strips Google's tracking and services out of it, and then builds it back up with a focus on user privacy and FOSS app stores (like F-Droid).
-  - For more on CalyxOS and my experience/recommendations, see my blog post ["Switching to CalyxOS"](https://blog.sethforprivacy.com/posts/switching-to-calyxos/).
+  - For more on CalyxOS and my experience/recommendations, see my blog post ["Switching to CalyxOS"](https://sethforprivacy.com/posts/switching-to-calyxos/).
 
 ## 9. Use a more privacy-conscious desktop operating system
 
