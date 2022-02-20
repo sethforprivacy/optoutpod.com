@@ -1,16 +1,16 @@
 ---
 title: "Kelly Finnerty"
-date: 2022-01-22T13:07:36-05:00
+date: 2022-02-20T16:00:00-05:00
 tags: []
 author: "Seth For Privacy"
-summary: "Episode: "
+summary: "Episode: S2E08 - Private search via Startpage w/ Kelly Finnerty"
 showToc: false
 disableShare: true
 hidemeta: true
-draft: true
+draft: false
 ---
 
-{{< figure src="/guests/kellyfinnerty.jpg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/kellyfinnerty.jpg" align="left" style="border-radius: 8px;" link="" width="250" >}}
 
 ### Director of Brand
 
@@ -24,4 +24,4 @@ draft: true
 
 #### Episodes
 
-- [SXEXX - Episode Title]({{< ref "/content/episodes/s2e08-startpage.md" >}})
+- [S2E08 - Private search via Startpage w/ Kelly Finnerty]({{< ref "/content/episodes/s2e08-startpage.md" >}})
