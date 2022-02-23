@@ -7,6 +7,8 @@ summary: "Episode: S2E03 - Privacy on Bitcoin w/ Samourai Wallet"
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/samouraiwallet.png
 ---
 
 {{< figure src="/guests/samouraiwallet.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

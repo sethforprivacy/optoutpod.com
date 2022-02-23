@@ -7,6 +7,8 @@ summary: "Episode: S2E01 - Email aliasing w/ Son from SimpleLogin"
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/son.png
 ---
 
 {{< figure src="/guests/son.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

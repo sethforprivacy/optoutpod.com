@@ -7,6 +7,8 @@ summary: "Episode: S1E13 - Personal responsibility in privacy, FOSS funding mode
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/odell.png
 ---
 
 {{< figure src="/guests/odell.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

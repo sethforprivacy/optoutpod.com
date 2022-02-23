@@ -7,6 +7,8 @@ summary: "Episode: Sponsor Special w/ Viktor Vecsei from IVPN"
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/viktorvecsei.png
 ---
 
 {{< figure src="/guests/viktorvecsei.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

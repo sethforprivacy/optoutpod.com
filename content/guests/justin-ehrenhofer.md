@@ -7,6 +7,8 @@ summary: "Episode: S1E05 - Privacy by default, contributing to FOSS, and Monero 
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/justinehrenhofer.png
 ---
 
 {{< figure src="/guests/justinehrenhofer.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

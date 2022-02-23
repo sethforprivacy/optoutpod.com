@@ -7,6 +7,8 @@ summary: "Episode: S1E15 - Privacy education, funding, and Apple w/ Sun Knudsen"
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/sunknudsen.png
 ---
 
 {{< figure src="/guests/sunknudsen.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

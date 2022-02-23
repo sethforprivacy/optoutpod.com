@@ -7,6 +7,8 @@ summary: "Episode: Sponsor Special w/ Vik Sharma from Cake Wallet"
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/viksharma.png
 ---
 
 {{< figure src="/guests/viksharma.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

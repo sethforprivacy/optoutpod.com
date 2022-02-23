@@ -7,6 +7,8 @@ summary: "Episode: S1E04 - Threat models and the importance of open-source softw
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/nathanbartram.png
 ---
 
 {{< figure src="/guests/nathanbartram.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

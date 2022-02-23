@@ -7,6 +7,8 @@ summary: "Episode: S1E09 - Cryptoanarchy and freedom w/ Pavol Lupták"
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/pavolluptak.png
 ---
 
 {{< figure src="/guests/pavolluptak.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

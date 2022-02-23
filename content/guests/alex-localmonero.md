@@ -7,6 +7,8 @@ summary: "Episode: Sponsor Special w/ Alex from LocalMonero and AgoraDesk"
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/alexlocalmonero.png
 ---
 
 {{< figure src="/guests/alexlocalmonero.png" align="left" style="border-radius: 8px;" link="https://localmonero.co" height="250" width="250" >}}

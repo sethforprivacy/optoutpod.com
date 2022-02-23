@@ -7,6 +7,8 @@ summary: "Episode: S2E02 - Clean up your data online w/ Rob Shavell from DeleteM
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/robshavell.png
 ---
 
 {{< figure src="/guests/robshavell.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

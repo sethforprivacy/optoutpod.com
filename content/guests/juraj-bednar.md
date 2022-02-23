@@ -7,6 +7,8 @@ summary: "Episode: S1E07 - Parallel econonomies and ethical Veksláks w/ Juraj B
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/jurajbednar.png
 ---
 
 {{< figure src="/guests/jurajbednar.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

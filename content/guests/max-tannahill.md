@@ -7,6 +7,8 @@ summary: "Episode: S1E03 - Mobile OS privacy, drag-net surveillance, and cryptoc
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/maxtannahill.png
 ---
 
 {{< figure src="/guests/maxtannahill.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

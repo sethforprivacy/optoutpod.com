@@ -7,6 +7,8 @@ summary: "Episode: S1E11 - Global surveillance, VPNs, and Tor w/ Smuggler"
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/smuggler.png
 ---
 
 {{< figure src="/guests/smuggler.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

@@ -8,6 +8,8 @@ showToc: false
 disableShare: true
 hidemeta: true
 draft: true
+cover:
+    image: /guests/jospoortvliet.png
 ---
 
 {{< figure src="/guests/jospoortvliet.jpg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}

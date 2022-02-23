@@ -7,6 +7,8 @@ summary: "Episode: Special - Coreboot, FOSS firmware, Pop_OS!, and System76 w/ J
 showToc: false
 disableShare: true
 hidemeta: true
+cover:
+    image: /guests/jeremysoller.png
 ---
 
 {{< figure src="/guests/jeremysoller.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
