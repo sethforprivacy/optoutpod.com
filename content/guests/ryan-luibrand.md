@@ -1,9 +1,9 @@
 ---
 title: "Ryan Luibrand"
-date: 2022-01-22T13:10:24-05:00
+date: 2022-02-27T16:00:00-05:00
 tags: []
 author: "Seth For Privacy"
-summary: "Episode: "
+summary: "Episode: S2E09 - Managing passwords via Bitwarden w/ Ryan Luibrand"
 showToc: false
 disableShare: true
 hidemeta: true
@@ -12,7 +12,7 @@ cover:
     image: /guests/ryanluibrand.jpg
 ---
 
-{{< figure src="/guests/ryanluibrand.jpg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/ryanluibrand.jpg" align="left" style="border-radius: 8px;" link="" width="250" >}}
 
 ### Product Marketing
 
@@ -22,4 +22,4 @@ cover:
 
 #### Episodes
 
-- [SXEXX - Episode Title]({{< ref "/content/episodes/s2e09-bitwarden.md" >}})
+- [S2E09 - Managing passwords via Bitwarden w/ Ryan Luibrand]({{< ref "/content/episodes/s2e09-bitwarden.md" >}})
