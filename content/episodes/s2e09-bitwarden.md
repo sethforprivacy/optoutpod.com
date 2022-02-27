@@ -15,7 +15,7 @@ tags:
 author: "Seth For Privacy"
 summary: "Looking for the right tool for password management, but wanting something that's open-source and encrypted by default? This episode, we're sitting down with Ryan Luibrand to chat about Bitwarden and their password manager tool."
 showToc: false
-draft: true
+draft: false
 ---
 
 # Episode
