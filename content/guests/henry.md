@@ -7,6 +7,7 @@ summary: "Episode: S1E01 - Privacy as a journey and digital minimalism w/ Techlo
 showToc: false
 disableShare: true
 hidemeta: true
+aliases: ["/guests/henry-from-techlore/"]
 cover:
     image: /guests/henry.png
 ---
