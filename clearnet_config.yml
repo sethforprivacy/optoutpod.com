@@ -132,7 +132,7 @@ menu:
       weight: 3
     - identifier: tools
       name: Tools of Season 2
-      url: /posts/season-2-tools.md
+      url: /posts/season-2-tools/
       weight: 4
     - identifier: about
       name: About
