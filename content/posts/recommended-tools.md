@@ -2,6 +2,7 @@
 title: "The Tools That Guests of Opt Out Recommend"
 date: 2021-08-02T12:18:24-05:00
 tags: ["tools"]
+aliases: ["/tools"]
 author: "Seth For Privacy"
 summary: "This page will serve as a simple place for you to come to find a list of all of the tools that guests of Opt Out have shared as tools they regularly use to opt out of surveillance, data harvesting, etc."
 ---
@@ -17,6 +18,8 @@ If you see any potential corrections or good alternative sources on a tool, plea
 ## Aliasing services
 
 - Simple Login, an email aliasing service - [https://simplelogin.io/](https://simplelogin.io/)
+  - [S2E01 - Email aliasing w/ Son from SimpleLogin]({{< ref "/content/episodes/s2e01-simplelogin.md" >}})
+    - > Heard about email aliasing but not sure where to start? This episode, we're sitting down with Son from SimpleLogin to chat about email aliasing.
 - Privacy.com, a payment card aliasing service - [https://privacy.com/](https://privacy.com/)
 - MySudo, a phone aliasing service - [https://mysudo.com/](https://mysudo.com/)
 - Catch-all email addresses via ProtonMail -- [https://protonmail.com/support/knowledge-base/catch-all/](https://protonmail.com/support/knowledge-base/catch-all/)
@@ -55,6 +58,8 @@ If you see any potential corrections or good alternative sources on a tool, plea
 ## Cryptocurrency
 
 - Bitcoin, via Samourai Wallet, a privacy-preserving Android wallet -- [https://samouraiwallet.com/](https://samouraiwallet.com/)
+  - [S2E03 - Privacy on Bitcoin w/ Samourai Wallet]({{< ref "/content/episodes/s2e03-samourai-wallet.md" >}})
+    - > Wondering how you can manage to use Bitcoin privately? This episode, we're sitting down with Samourai Wallet to chat about their incredible FOSS Bitcoin wallet that enables private usage of Bitcoin.
 - Monero, a privacy-preserving cryptocurrency -- [https://www.getmonero.org/](https://www.getmonero.org/)
 - Incognito, a privacy-centric exchange platform -- [https://incognito.org/](https://incognito.org/)
 
@@ -65,6 +70,8 @@ If you see any potential corrections or good alternative sources on a tool, plea
 ## Password managers
 
 - Bitwarden, an easy to use password manager -- [https://bitwarden.com/](https://bitwarden.com/)
+  - [S2E09 - Managing passwords via Bitwarden w/ Ryan Luibrand]({{< ref "/content/episodes/s2e09-bitwarden.md" >}})
+    - > Looking for the right tool for password management, but wanting something that's open-source and encrypted by default? This episode, we're sitting down with Ryan Luibrand to chat about Bitwarden and their password manager tool.
 - KeePass, a basic and local password manager -- [https://keepass.info/](https://keepass.info/)
 - KeePassXC, a FOSS password manager -- [https://keepassxc.org/](https://keepassxc.org/)
 

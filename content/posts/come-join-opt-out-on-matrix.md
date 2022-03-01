@@ -1,7 +1,7 @@
 ---
 title: "Come join the growing Opt Out community on Matrix"
 date: 2022-02-07T14:51:28-05:00
-weight: 1
+weight: 2
 # aliases: ["/first"]
 tags: []
 author: "Seth For Privacy"
