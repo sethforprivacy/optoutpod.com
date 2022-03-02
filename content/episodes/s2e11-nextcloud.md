@@ -1,6 +1,7 @@
 ---
 title: "Taking back your data via Nextcloud w/ Jos Poortvliet"
 date: 2022-02-07T14:27:29-05:00
+publishDate: 2022-03-13T16:00:00-05:00
 aliases: ["/s2e11"]
 keywords:
 - privacy
@@ -24,7 +25,7 @@ draft: true
 
 For the video version of the episode (or for closed captions and translations), see YouTube: 
 
-- <>
+- <https://www.youtube.com/watch?v=Ne4fWh6lrQ8>
 
 # Show Notes
 

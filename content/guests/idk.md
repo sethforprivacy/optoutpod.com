@@ -1,6 +1,7 @@
 ---
 title: "idk"
 date: 2022-03-02T09:59:38-05:00
+publishDate: 2022-03-06T16:00:00-05:00
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S2E10 - Network privacy via i2p w/ IDK and Sadie"

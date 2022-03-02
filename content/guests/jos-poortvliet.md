@@ -1,6 +1,7 @@
 ---
 title: "Jos Poortvliet"
 date: 2022-01-22T13:06:15-05:00
+publishDate: 2022-03-13T16:00:00-05:00
 tags: []
 author: "Seth For Privacy"
 summary: "Episode: S2E11 - Taking back your data via Nextcloud w/ Jos Poortvliet"
