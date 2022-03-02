@@ -3,7 +3,7 @@ title: "Jos Poortvliet"
 date: 2022-01-22T13:06:15-05:00
 tags: []
 author: "Seth For Privacy"
-summary: "Episode: "
+summary: "Episode: S2E11 - Taking back your data via Nextcloud w/ Jos Poortvliet"
 showToc: false
 disableShare: true
 hidemeta: true
@@ -24,4 +24,4 @@ cover:
 
 #### Episodes
 
-- [SXEXX - Episode Title]({{< ref "/content/episodes/s2e10-nextcloud.md" >}})
+- [S2E11 - Taking back your data via Nextcloud w/ Jos Poortvliet]({{< ref "/content/episodes/s2e11-nextcloud.md" >}})
