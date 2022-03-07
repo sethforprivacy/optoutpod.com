@@ -46,6 +46,8 @@ Below you'll find all of the episodes from season 2, sorted by type of tool.
   - > Wanting to get a better grasp of what the Tor network can do for your privacy, and what it can't do? This episode, we're sitting down with Isabela to chat about the Tor network.
 - [S2E07 - Application firewalls w/ David and Daniel from Safing.io]({{< ref "/content/episodes/s2e07-portmaster.md" >}})
   - > Heard about application firewalls and tools like Little Snitch on Mac, but not sure where to start? This episode, we're sitting down with David and Daniel from Safing to chat about their project, Portmaster.
+- [S2E10 - Network privacy via i2p w/ IDK and Sadie]({{< ref "/content/episodes/s2e10-i2p.md" >}})
+  - > Have you heard about i2p but aren't sure where it fits into your network privacy toolkit? This episode, we're sitting down with Sadie and idk from i2p to chat about i2p's approach to privacy, it's use-cases, and how it compares to similar tools like the Tor network.
 
 ### Personal data
 
