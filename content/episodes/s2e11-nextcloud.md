@@ -1,7 +1,6 @@
 ---
 title: "Taking back your data via Nextcloud w/ Jos Poortvliet"
-date: 2022-02-07T14:27:29-05:00
-publishDate: 2022-03-13T16:00:00-05:00
+date: 2022-03-13T16:00:00-05:00
 aliases: ["/s2e11"]
 keywords:
 - privacy
@@ -16,7 +15,7 @@ tags:
 author: "Seth For Privacy"
 summary: "Looking for a solution to get off of Google or Apple's walled ecosystem and take back control of your data? This episode, we're sitting down with Jos Poortvliet to chat about Nextcloud and the many solutions it has to offer."
 showToc: false
-draft: true
+draft: false
 ---
 
 # Episode

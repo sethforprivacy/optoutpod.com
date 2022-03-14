@@ -21,7 +21,8 @@ Below you'll find all of the episodes from season 2, sorted by type of tool.
 
 ### Files and data
 
-*Episodes in this category are yet to release.*
+- [S2E11 - Taking back your data via Nextcloud w/ Jos Poortvliet]({{< ref "/content/episodes/s2e11-nextcloud.md" >}})
+  - > Looking for a solution to get off of Google or Apple's walled ecosystem and take back control of your data? This episode, we're sitting down with Jos Poortvliet to chat about Nextcloud and the many solutions it has to offer.
 
 ### Financial privacy
 
