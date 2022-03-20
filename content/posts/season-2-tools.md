@@ -59,6 +59,8 @@ Below you'll find all of the episodes from season 2, sorted by type of tool.
 
 - [S2E08 - Private search via Startpage w/ Kelly Finnerty]({{< ref "/content/episodes/s2e08-startpage.md" >}})
   - > Have you been considering a more privacy-preserving search engine but not sure where to start? This episode, we're sitting down with Kelly from Startpage to chat about the Startpage search engine, how it works, it's limitations, and more.
+- [S2E12 - Self-hosted search via Whoogle w/ Ben Busby]({{< ref "/content/episodes/s2e12-whoogle.md" >}})
+  - > Looking for a privacy-preserving and light-weight search tool that you can self-host? This episode, we're sitting down with Ben Busby to chat about his project, Whoogle search.
 
 ### Security
 

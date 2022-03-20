@@ -37,7 +37,9 @@ params:
   showtoc: true
   tocopen: false
   cover:
-    hidden: true
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
 
   mainSections: episodes
 
@@ -67,7 +69,7 @@ params:
       -
 
 
-      <div id="buzzsprout-player-10174608"></div><script src="https://www.buzzsprout.com/1790481/10174608-taking-back-your-data-via-nextcloud-w-jos-poortvliet.js?container_id=buzzsprout-player-10174608&player=small" type="text/javascript" charset="utf-8"></script>
+      <div id="buzzsprout-player-10283140"></div><script src="https://www.buzzsprout.com/1790481/10283140-self-hosted-search-via-whoogle-w-ben-busby.js?container_id=buzzsprout-player-10283140&player=small" type="text/javascript" charset="utf-8"></script>
 
   socialIcons:
     - name: rss
