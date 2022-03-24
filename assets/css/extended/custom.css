@@ -3,6 +3,7 @@
 	width: auto\9*0.3; /* ie8 */
 	height: auto;
 	float: left;
+    padding-right: 15px;
 }
 
 .post-content img[src*="#floatright"] {
@@ -10,8 +11,8 @@
 	width: auto\9*0.3; /* ie8 */
 	height: auto;
 	float: right;
+    padding-left: 15px;
 }
-
 :root {
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
