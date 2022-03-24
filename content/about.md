@@ -62,10 +62,10 @@ The best way to financially support what I'm doing is by donating Monero, a priv
 
 Note that if you're viewing this on mobile, simply tap on the QR code.
 
-{{< figure src="/donation.png" align="center" style="border-radius: 8px;" link="monero:89bXXFtyBhrdtVrCA8Ags3Da34QUZtgGTRAPf9aJJANh8ZvWp3qnwGxN8aQBkjRPBbGs6dn6Gd98s2hXzrWzJ3M9Jb4pXej" >}}
+{{< figure src="/donation.png" align="center" style="border-radius: 8px;" link="monero:88b6MYiw6xN555E4mETrQjApbVskbHouHMmdzZ21kQZUdCf5i5JT7wsKDE3XV4VKkDBoRBgMrLJNNd1bcFEJ73Je7NGrdsH" >}}
 
 - OpenAlias: `donate@optoutpod.com`
-- Address: `89bXXFtyBhrdtVrCA8Ags3Da34QUZtgGTRAPf9aJJANh8ZvWp3qnwGxN8aQBkjRPBbGs6dn6Gd98s2hXzrWzJ3M9Jb4pXej`
+- Address: `88b6MYiw6xN555E4mETrQjApbVskbHouHMmdzZ21kQZUdCf5i5JT7wsKDE3XV4VKkDBoRBgMrLJNNd1bcFEJ73Je7NGrdsH`
 
 For more information on Monero, see [here](https://www.getmonero.org/).
 
