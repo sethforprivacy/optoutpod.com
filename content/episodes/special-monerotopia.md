@@ -1,5 +1,5 @@
 ---
-title: "Moneropia conference special w/ Douglas Tuman"
+title: "Monerotopia conference special w/ Douglas Tuman"
 date: 2022-03-25T14:38:53-04:00
 aliases: ["/monerotopia-special"]
 keywords:
