@@ -1,5 +1,4 @@
 ---
-TocOpen: false
 author: Seth For Privacy
 comments: false
 date: "2021-12-21T10:00:00-04:00"
@@ -8,6 +7,7 @@ summary: A quick post detailing a recommendation of the order of steps I would
 draft: false
 hidemeta: false
 showToc: true
+tocopen: true
 tags:
 - privacy
 - threat model

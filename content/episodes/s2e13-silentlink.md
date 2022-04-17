@@ -34,7 +34,7 @@ Have you been struggling to find ways to get a usable and long-lasting phone num
 
 - Website -- https://silent.link/
 - Twitter -- https://twitter.com/silentlink1
-- Matrix -- [@support:silent.link](matrix://@support:silent.link)
+- Matrix -- [@support:silent.link](https://matrix.to/#/@support:silent.link)
 - Email -- [support@silent.link](mailto:support@silent.link)
 
 ## Opt Out's Sponsors:

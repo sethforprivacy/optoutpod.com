@@ -6,6 +6,7 @@ weight: 1
 tags: ["tools"]
 author: "Seth For Privacy"
 description: "As season 2 of Opt Out is focused on walking through many of the tools available to you to help you Opt Out, this post is simply an easy way to sort through and find ones episodes that may be of interest to you based on the type of tool you're looking for."
+tocopen: true
 ---
 
 ## Introduction
@@ -33,11 +34,13 @@ Below you'll find all of the episodes from season 2, sorted by type of tool.
 
 ### Messaging
 
-*Episodes in this category are yet to release.*
+- [S2E14 - Private messaging via Session w/ Kee Jeffreys]({{< ref "/content/episodes/s2e14-session.md" >}})
+  - > Looking to explore alternatives to Signal and heard of Session, but not sure what sets it apart? This episode, we're sitting down with Kee Jefferys, CTO of Session, to chat about their Session messenger and it's approaches to chat, encryption, and network privacy.
 
 ### Mobile privacy
 
-*Episodes in this category are yet to release.*
+- [S2E13 - Anonymous SIM cards via Silent.Link]({{< ref "/content/episodes/s2e13-silentlink.md" >}})
+  - > Have you been struggling to find ways to get a usable and long-lasting phone number without giving up your ID or privacy? This episode, we're sitting down with Silent.Link to chat about their phone number service via eSIMs.
 
 ### Network privacy
 

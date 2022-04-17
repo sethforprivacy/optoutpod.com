@@ -5,6 +5,7 @@ tags: ["tools"]
 aliases: ["/tools"]
 author: "Seth For Privacy"
 summary: "This page will serve as a simple place for you to come to find a list of all of the tools that guests of Opt Out have shared as tools they regularly use to opt out of surveillance, data harvesting, etc."
+tocopen: true
 ---
 
 # Introduction

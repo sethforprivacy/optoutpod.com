@@ -1,7 +1,7 @@
 baseURL: 'http://optoutkoplzfgs7wl3gkg5nmtrrs7ki6ljcguf7c4w7rdsrtozlghxad.onion/'
 publishDir: tor
 title: Opt Out Podcast
-theme: PaperMod
+theme: PaperModX
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -36,6 +36,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  TocSide: 'left'
   cover:
     hidden: true
 
@@ -54,20 +55,13 @@ params:
   homeInfoParams:
     Title: "Welcome to Opt Out Podcast \U0001F44B"
     Content: >
-      - Opt Out is a podcast where I sit down with passionate people to learn why privacy matters to them, the tools and techniques they’ve found and leveraged, and where we encourage and inspire others towards personal privacy and data-sovereignty.
-      
-      -
+      Opt Out is a podcast where I sit down with passionate people to learn why privacy matters to them, the tools and techniques they’ve found and leveraged, and where we encourage and inspire others towards personal privacy and data-sovereignty.
+      <br/><br/>
+      Thanks in advance for listening, and I hope you learn as much as I do each episode!  
+      <br/><br/>
+      ***Jump into the latest episode directly below:***
 
-      - Thanks in advance for listening, and I hope you learn as much as I do each episode!
-
-      -
-
-      - ***Jump into the latest episode directly below:***
-
-      -
-
-
-      <div id="buzzsprout-player-10326827"></div><script src="https://www.buzzsprout.com/1790481/10326827-anonymous-sim-cards-via-silent-link.js?container_id=buzzsprout-player-10326827&player=small" type="text/javascript" charset="utf-8"></script>
+      <div id="buzzsprout-player-10434059"></div><script src="https://www.buzzsprout.com/1790481/10434059-private-messaging-via-session-w-kee-jeffreys.js?container_id=buzzsprout-player-10434059&player=small" type="text/javascript" charset="utf-8"></script>
 
 
   socialIcons:
