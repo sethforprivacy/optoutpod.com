@@ -37,6 +37,7 @@ params:
   showtoc: true
   tocopen: false
   TocSide: 'left'
+  useCustomAnalytics: false
   cover:
     hidden: true
 
