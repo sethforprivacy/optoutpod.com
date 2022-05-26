@@ -56,9 +56,9 @@ If you're new to Matrix, be sure to see the guide on getting started and joining
 
 ## Donations
 
-### Monero or Bitcoin/Lightning via BTCPayServer
+### Monero or Bitcoin/Lightning via BTCPay Server
 
-You can easily donate Bitcoin (on-chain or via Lightning) or Monero via my BTCPayServer instance:
+You can easily donate Bitcoin (on-chain or via Lightning) or Monero via my BTCPay Server instance:
 
 {{< btcpayserver >}}
 
