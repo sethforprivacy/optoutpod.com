@@ -56,7 +56,13 @@ If you're new to Matrix, be sure to see the guide on getting started and joining
 
 ## Donations
 
-### Monero
+### Monero or Bitcoin/Lightning via BTCPayServer
+
+You can easily donate Bitcoin (on-chain or via Lightning) or Monero via my BTCPayServer instance:
+
+{{< btcpayserver >}}
+
+### Monero via OpenAlias or address
 
 The best way to financially support what I'm doing is by donating Monero, a privacy-preserving cryptocurrency, to the OpenAlias `donate@optoutpod.com` or using the QR code below. If you have questions on how to do that, or on Monero in general, please reach out at [seth@optoutpod.com](mailto:seth@optoutpod.com) and I'd be happy to help answer those questions.
 
@@ -69,7 +75,8 @@ Note that if you're viewing this on mobile, simply tap on the QR code.
 
 For more information on Monero, see [here](https://www.getmonero.org/).
 
-### Bitcoin
+### Bitcoin via PayNym
+
 If you prefer Bitcoin for donations over Monero, please donate using the following PayNym.
 
 Note that if you're viewing this on mobile, simply tap on the QR code.
