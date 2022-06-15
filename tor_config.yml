@@ -127,10 +127,6 @@ menu:
       name: Blog Posts
       url: /posts
       weight: 3
-    - identifier: tools
-      name: Tools of Season 2
-      url: /posts/season-2-tools/
-      weight: 4
     - identifier: about
       name: About
       url: /about
