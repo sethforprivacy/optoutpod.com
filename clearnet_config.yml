@@ -93,9 +93,9 @@ params:
     - name: matrix
       url: "https://matrix.to/#/#optout-general:matrix.optoutpod.com"
     - name: monero
-      url: "https://optoutpod.com/about/#monero"
+      url: "https://optoutpod.com/donate"
     - name: bitcoin
-      url: "https://optoutpod.com/about/#bitcoin"
+      url: "https://optoutpod.com/donate"
 
   # for search
   # https://fusejs.io/api/options.html
@@ -140,10 +140,14 @@ menu:
       name: Sponsors
       url: /sponsors
       weight: 6
+    - identifier: donate
+      name: Donate
+      url: /donate
+      weight: 7
     - identifier: search
       name: Search
       url: /search
-      weight: 7
+      weight: 10
 
 privacy:
   disqus:
