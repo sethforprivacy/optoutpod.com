@@ -7,7 +7,7 @@ summary: "Episode: S3E1- How FediMints could ease onboarding and privacy in Bitc
 showToc: false
 disableShare: true
 hidemeta: true
-draft: true
+draft: false
 cover:
     image: /guests/ericsirion.jpg
 ---
