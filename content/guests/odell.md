@@ -25,3 +25,4 @@ cover:
 #### Episodes
 
 - [S1E13 - Personal responsibility in privacy, FOSS funding models, and Bitcoin w/ Matt Odell]({{< ref "/content/episodes/s1e13-matt-odell.md" >}})
+- [S3E01- How FediMints could ease onboarding and privacy in Bitcoin w/ Eric Sirion and Matt Odell]({{< ref "/content/episodes/s3e01-fedimints.md" >}})

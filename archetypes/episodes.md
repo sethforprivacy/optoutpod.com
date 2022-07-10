@@ -2,17 +2,17 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 # weight: 1
-aliases: ["/s2e"]
+aliases: ["/s3e"]
 keywords:
 - privacy
 - podcast
 - opt out
-- season 2
+- season 3
 tags:
 - privacy
 - podcast
 - opt out
-- season 2
+- season 3
 author: "Seth For Privacy"
 summary: ""
 showToc: false
