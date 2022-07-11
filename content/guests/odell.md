@@ -15,11 +15,11 @@ cover:
 
 ### Bitcoiner
 
-> Bitcoin and privacy advocate. Host: Citadel Dispatch, TFTC. Co-Founder: Open Sats, BitcoinTV, Bitcoin Dev List, Final Message. Venture Partner at Ten31. Advisor: Bitcoin Magazine, BottlePay, Hexa Wallet, Swan Bitcoin.
+> Bitcoin and privacy advocate. Host: Citadel Dispatch, Rabbit Hole Recap. Co-Founder: Open Sats, BitcoinTV, Bitcoin Dev List, Final Message. Venture Partner at Ten31. Advisor: Bitcoin Magazine, BottlePay, Hexa Wallet, Swan Bitcoin.
 
 - Website -- https://mattodell.keybase.pub/
 - Twitter -- https://twitter.com/odell
-- YouTube -- https://www.youtube.com/c/TFTC21
+- YouTube -- https://youtube.com/channel/UCoA72saVAuQ8hYCnBO0Lymw
 - Twitch -- https://www.twitch.tv/citadeldispatch
 
 #### Episodes
