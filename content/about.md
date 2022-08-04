@@ -47,7 +47,7 @@ See below for a list of direct links to Opt Out on the most common platforms:
 
 You can jump into the community on Matrix using the channel link below, but feel free to [reach out](#how-to-contact-me) to recommend a new channel or community location:
 
-- [Opt Out Podcast Matrix](https://matrix.to/#/#opt-out-podcast:matrix.optoutpod.com
+- [Opt Out Podcast Matrix Space](https://matrix.to/#/#opt-out-podcast:matrix.optoutpod.com)
 - [r/optoutpod](https://reddit.com/r/optoutpod)
 
 If you're new to Matrix, be sure to see the guide on getting started and joining the Opt Out channel below:
