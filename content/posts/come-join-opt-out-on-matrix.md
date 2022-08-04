@@ -26,7 +26,7 @@ If you're already on Matrix and have an account setup, joining is extremely easy
 
 ## From the URL
 
-1. Go to <https://matrix.to/#/#optout-general:matrix.optoutpod.com> in your favorite browser (or click the link here!)
+1. Go to <https://matrix.to/#/#opt-out-podcast:matrix.optoutpod.com> in your favorite browser (or click the link here!)
 
 2. Select "Continue"
 
