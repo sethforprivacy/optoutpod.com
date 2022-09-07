@@ -22,6 +22,9 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: dark
   disableThemeToggle: false
+  socialAccounts:
+    twitter:
+      username: 'optoutpod'
 
   images:
     - /images/og-image.png
