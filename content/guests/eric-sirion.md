@@ -3,7 +3,7 @@ title: "Eric Sirion"
 date: 2022-07-10T11:58:36-04:00
 tags: []
 author: "Seth For Privacy"
-summary: "Episode: S3E1- How FediMints could ease onboarding and privacy in Bitcoin w/ Eric Sirion and Matt Odell"
+summary: "Episode: S3E1 - How FediMints could ease onboarding and privacy in Bitcoin w/ Eric Sirion and Matt Odell"
 showToc: false
 disableShare: true
 hidemeta: true
