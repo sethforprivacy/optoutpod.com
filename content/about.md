@@ -49,7 +49,3 @@ You can jump into the community on Matrix using the channel link below, but feel
 
 - [Opt Out Podcast Matrix Space](https://matrix.to/#/#opt-out-podcast:monero.social)
 - [r/optoutpod](https://reddit.com/r/optoutpod)
-
-If you're new to Matrix, be sure to see the guide on getting started and joining the Opt Out channel below:
-
-- [Come join the growing Opt Out community on Matrix]({{< ref "/content/posts/come-join-opt-out-on-matrix.md" >}})
