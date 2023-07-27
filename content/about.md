@@ -39,7 +39,7 @@ See below for a list of direct links to Opt Out on the most common platforms:
 ## How To Contact Me  
 
 - [Twitter](https://twitter.com/optoutpod) - `@optoutpod`  
-- [Matrix](https://matrix.to/#/@sethforprivacy:matrix.optoutpod.com) - `@sethforprivacy:matrix.optoutpod.com`  
+- [Matrix](https://matrix.to/#/@sethforprivacy:agoradesk.com) - `@sethforprivacy:agoradesk.com`  
 - [Threema](https://threema.id/WBAAN4ZA) - `WBAAN4ZA`  
 - [Email](mailto:seth@optoutpod.com) - `seth@optoutpod.com`
 
@@ -47,7 +47,7 @@ See below for a list of direct links to Opt Out on the most common platforms:
 
 You can jump into the community on Matrix using the channel link below, but feel free to [reach out](#how-to-contact-me) to recommend a new channel or community location:
 
-- [Opt Out Podcast Matrix Space](https://matrix.to/#/#opt-out-podcast:matrix.optoutpod.com)
+- [Opt Out Podcast Matrix Space](https://matrix.to/#/#opt-out-podcast:monero.social)
 - [r/optoutpod](https://reddit.com/r/optoutpod)
 
 If you're new to Matrix, be sure to see the guide on getting started and joining the Opt Out channel below:
