@@ -39,8 +39,7 @@ See below for a list of direct links to Opt Out on the most common platforms:
 ## How To Contact Me  
 
 - [Twitter](https://twitter.com/optoutpod) - `@optoutpod`  
-- [Matrix](https://matrix.to/#/@sethforprivacy:agoradesk.com) - `@sethforprivacy:agoradesk.com`  
-- [Threema](https://threema.id/WBAAN4ZA) - `WBAAN4ZA`  
+- [Matrix](https://matrix.to/#/@sethforprivacy:agoradesk.com) - `@sethforprivacy:agoradesk.com`
 - [Email](mailto:seth@optoutpod.com) - `seth@optoutpod.com`
 
 ## Opt Out Community Channels
