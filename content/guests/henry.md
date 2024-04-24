@@ -12,13 +12,16 @@ cover:
     image: /guests/henry.png
 ---
 
-{{< figure src="/guests/henry.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/henry.jpeg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
-> Musician, runner, privacy-advocate, dog-owner, and proud owner of Techlore.
+> Runner, artist, musician and digital rights activist. I'm the owner of Techlore, marketing manager for Cake Wallet, & co-host of Surveillance Report.
+> I've developed resources for nearly a decade, using my expertise to improve people's relationship with technology and digital safety.
 
-- Website -- https://techlore.tech/
+- Henry's Site -- https://henryfisher.tech
+- Techlore -- https://techlore.tech
+- Forum Community -- https://discuss.techlore.tech
 - Twitter -- https://twitter.com/techloreistaken
-- YouTube -- https://www.youtube.com/c/techlore
+- YouTube -- https://youtube.com/@techlore
 - Discord -- https://discord.gg/Xd7baMSpqS
 
 #### Episodes
