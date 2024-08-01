@@ -39,6 +39,6 @@ I sit down with Andy Yen, founder and CEO of Proton, to discuss the release of P
 
 ## Supporting Opt Out:
 
-- Donations -- https://optoutpod.com/donations
+- Donations -- https://optoutpod.com/donate
 - Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!
