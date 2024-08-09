@@ -1,7 +1,7 @@
 baseURL: 'https://optoutpod.com/'
 languageCode: en-us
 title: Opt Out Podcast
-theme: PaperModX
+theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
