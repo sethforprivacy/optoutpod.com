@@ -78,24 +78,20 @@ params:
       url: "https://podcasts.apple.com/us/podcast/id1572450110?mt=2&ls=1"
     - name: spotify
       url: "https://open.spotify.com/show/59fX0wRUKhWGK9IAKt7bQM"
-    - name: googlepodcasts
-      url: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNzkwNDgxLnJzcw=="
     - name: pocketcasts
       url: "https://pca.st/3iu4ight"
     - name: overcast
       url: "https://overcast.fm/itunes1572450110"
     - name: youtube
       url: "https://www.youtube.com/c/OptOutPodcast"
-    - name: peertube
-      url: "https://videos.optoutpod.com"
     - name: twitter
-      url: "https://twitter.com/optoutpod"
+      url: "https://x.com/optoutpod"
     - name: reddit
       url: "https://www.reddit.com/r/optoutpod/"
     - name: email
       url: "mailto:seth@optoutpod.com"
     - name: matrix
-      url: "https://matrix.to/#/#opt-out-podcast:monero.social"
+      url: "https://matrix.to/#/#optout-general:monero.social"
     - name: monero
       url: "https://optoutpod.com/donate"
     - name: bitcoin
