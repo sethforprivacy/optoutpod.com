@@ -33,7 +33,7 @@ Heard about email aliasing but not sure where to start? This episode, we're sitt
 
 ## More about Son:
 
-- Son's guest profile -- [Son]({{< ref "/content/guests/son.md" >}})
+- Son's guest profile -- [Son]({{< ref "/guests/son.md" >}})
 
 ## More about SimpleLogin:
 

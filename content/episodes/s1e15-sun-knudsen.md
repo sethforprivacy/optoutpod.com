@@ -36,7 +36,7 @@ Wondering why someone decides to do privacy education and research full-time? Th
 
 ## More about Sun Knudsen:
 
-- Sun Knudsen's guest profile -- [Sun Knudsen]({{< ref "/content/guests/sun-knudsen.md" >}})
+- Sun Knudsen's guest profile -- [Sun Knudsen]({{< ref "/guests/sun-knudsen.md" >}})
 
 ## Sun Knudsen's recommended tools to Opt Out:
 

@@ -35,7 +35,7 @@ Wondering what mobile Monero wallet I use and recommend and why I chose to take 
 
 ## More about Vik Sharma:
 
-- Vik's guest profile -- [Vik Sharma]({{< ref "/content/guests/vik-sharma.md" >}})
+- Vik's guest profile -- [Vik Sharma]({{< ref "/guests/vik-sharma.md" >}})
 
 ## More about Cake Wallet:
 

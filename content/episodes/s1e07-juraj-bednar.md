@@ -37,7 +37,7 @@ Where does privacy fit in to opting out of a broken (or breaking) economy or soc
 
 ## More about Juraj:
 
-- Juraj's guest profile -- [Juraj Bednar]({{< ref "/content/guests/juraj-bednar.md" >}})
+- Juraj's guest profile -- [Juraj Bednar]({{< ref "/guests/juraj-bednar.md" >}})
 - "The Second Realm", by Smuggler and XYZ -- https://anarplex.net/hosted/files/secondrealm/secondrealm.pdf
 
 ## Juraj's recommended tools to Opt Out:

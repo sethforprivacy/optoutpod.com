@@ -22,4 +22,4 @@ cover:
 
 #### Episodes
 
-- [S3E01- How FediMints could ease onboarding and privacy in Bitcoin w/ Eric Sirion and Matt Odell]({{< ref "/content/episodes/s3e01-fedimints.md" >}})
+- [S3E01- How FediMints could ease onboarding and privacy in Bitcoin w/ Eric Sirion and Matt Odell]({{< ref "/episodes/s3e01-fedimints.md" >}})

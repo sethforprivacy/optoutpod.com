@@ -26,4 +26,4 @@ cover:
 
 #### Episodes
 
-- [S2E14 - Private messaging via Session w/ Kee Jeffreys]({{< ref "/content/episodes/s2e14-session.md" >}})
+- [S2E14 - Private messaging via Session w/ Kee Jeffreys]({{< ref "/episodes/s2e14-session.md" >}})

@@ -24,4 +24,4 @@ cover:
 
 #### Episodes
 
-- [S2E11 - Taking back your data via Nextcloud w/ Jos Poortvliet]({{< ref "/content/episodes/s2e11-nextcloud.md" >}})
+- [S2E11 - Taking back your data via Nextcloud w/ Jos Poortvliet]({{< ref "/episodes/s2e11-nextcloud.md" >}})

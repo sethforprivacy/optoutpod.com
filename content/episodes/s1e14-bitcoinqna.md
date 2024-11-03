@@ -35,7 +35,7 @@ Wondering what drives normal people to focus on FOSS? This episode, we're sittin
 
 ## More about QnA:
 
-- QnA's guest profile -- [Bitcoin QnA]({{< ref "/content/guests/bitcoin-qna.md" >}})
+- QnA's guest profile -- [Bitcoin QnA]({{< ref "/guests/bitcoin-qna.md" >}})
 - QnA's full list of recommended tools -- https://bitcoiner.guide/toolkit/
 
 ## QnA's recommended tools to Opt Out:

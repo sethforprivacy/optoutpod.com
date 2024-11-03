@@ -36,7 +36,7 @@ Wondering how global surveillance could realistically work, or how VPNs can play
 
 More about Smuggler:
 
-- Smuggler's guest profile -- [Smuggler]({{< ref "/content/guests/smuggler.md" >}})
+- Smuggler's guest profile -- [Smuggler]({{< ref "/guests/smuggler.md" >}})
 - Cypherpunk Bitstream Podcast -- https://taz0.org/bitstream/
 - Smuggler's blog -- https://opaque.link/
 - Smuggler's paper on global surveillance -- https://opaque.link/post/2011-06-16-global-spying/

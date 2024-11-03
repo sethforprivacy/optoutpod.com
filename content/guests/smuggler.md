@@ -22,4 +22,4 @@ cover:
 
 #### Episodes
 
-- [S1E11 - Global surveillance, VPNs, and Tor w/ Smuggler]({{< ref "/content/episodes/s1e11-smuggler.md" >}})
+- [S1E11 - Global surveillance, VPNs, and Tor w/ Smuggler]({{< ref "/episodes/s1e11-smuggler.md" >}})

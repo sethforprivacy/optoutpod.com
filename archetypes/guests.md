@@ -25,4 +25,4 @@ cover:
 
 #### Episodes
 
-- [SXEXX - Episode Title]({{< ref "/content/episodes/episode.md" >}})
+- [SXEXX - Episode Title]({{< ref "/episodes/episode.md" >}})

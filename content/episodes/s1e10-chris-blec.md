@@ -39,7 +39,7 @@ Wondering what it's like to take the dive and switch to Linux and CalyxOS at onc
 
 ## More about Chris Blec:
 
-- Chris Blec's guest profile -- [Chris Blec]({{< ref "/content/guests/chris-blec.md" >}})
+- Chris Blec's guest profile -- [Chris Blec]({{< ref "/guests/chris-blec.md" >}})
 - DeFi Watch -- https://defiwatch.net/
 - Proof of Decentralization podcast -- https://anchor.fm/proof-of-decentralization
 

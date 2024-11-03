@@ -24,4 +24,4 @@ cover:
 
 #### Episodes
 
-- [Moneropia conference special w/ Douglas Tuman]({{< ref "/content/episodes/special-monerotopia.md" >}})
+- [Moneropia conference special w/ Douglas Tuman]({{< ref "/episodes/special-monerotopia.md" >}})

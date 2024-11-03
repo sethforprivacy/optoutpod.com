@@ -28,4 +28,4 @@ cover:
 
 #### Episodes
 
-- [S2E04 - Securing your Bitcoin w/ Zach Herbert from FOUNDATION]({{< ref "/content/episodes/s2e04-foundation.md" >}})
+- [S2E04 - Securing your Bitcoin w/ Zach Herbert from FOUNDATION]({{< ref "/episodes/s2e04-foundation.md" >}})

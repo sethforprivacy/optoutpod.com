@@ -23,4 +23,4 @@ cover:
 
 #### Episodes
 
-- [Sponsor Special w/ Viktor Vecsei from IVPN]({{< ref "/content/episodes/special-viktor-veksai-ivpn.md" >}})
+- [Sponsor Special w/ Viktor Vecsei from IVPN]({{< ref "/episodes/special-viktor-veksai-ivpn.md" >}})

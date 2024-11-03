@@ -26,4 +26,4 @@ cover:
 
 #### Episodes
 
-- [S2E08 - Private search via Startpage w/ Kelly Finnerty]({{< ref "/content/episodes/s2e08-startpage.md" >}})
+- [S2E08 - Private search via Startpage w/ Kelly Finnerty]({{< ref "/episodes/s2e08-startpage.md" >}})

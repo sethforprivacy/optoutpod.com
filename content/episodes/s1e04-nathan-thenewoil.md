@@ -37,7 +37,7 @@ Wondering what the difference is between privacy, security, and anonymity and ho
 
 ## More about Nathan:
 
-- Nathan's guest profile -- [Nathan Bartram]({{< ref "/content/guests/nathan-bartram.md" >}})
+- Nathan's guest profile -- [Nathan Bartram]({{< ref "/guests/nathan-bartram.md" >}})
 - Threat modeling -- https://thenewoil.xyz/threatmodel.html
 - The intersection of privacy, security, and anonymity -- https://thenewoil.xyz/privsecanon.html
 - Choosing a browser and plugins -- https://thenewoil.xyz/browser.html

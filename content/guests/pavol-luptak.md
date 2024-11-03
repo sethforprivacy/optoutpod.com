@@ -31,4 +31,4 @@ cover:
 
 #### Episodes
 
-- [S1E09 - Cryptoanarchy and freedom w/ Pavol Lupták]({{< ref "/content/episodes/s1e09-pavol-luptak.md" >}})
+- [S1E09 - Cryptoanarchy and freedom w/ Pavol Lupták]({{< ref "/episodes/s1e09-pavol-luptak.md" >}})

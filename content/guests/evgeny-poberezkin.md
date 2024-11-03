@@ -26,4 +26,4 @@ cover:
 
 #### Episodes
 
-- [S3E02 - SimpleX chat and how privacy aligns with the future of computing w/ Evgeny from SimpleX]({{< ref "/content/episodes/s3e02-simplexchat.md" >}})
+- [S3E02 - SimpleX chat and how privacy aligns with the future of computing w/ Evgeny from SimpleX]({{< ref "/episodes/s3e02-simplexchat.md" >}})

@@ -24,4 +24,4 @@ cover:
 
 #### Episodes
 
-- [Bear Arms N' Bitcoin conference special w/ Ragnar Lifthasir]({{< ref "/content/episodes/special-banb.md" >}})
+- [Bear Arms N' Bitcoin conference special w/ Ragnar Lifthasir]({{< ref "/episodes/special-banb.md" >}})

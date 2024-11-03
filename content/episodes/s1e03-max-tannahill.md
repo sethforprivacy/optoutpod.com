@@ -35,7 +35,7 @@ Wanting to learn more about mobile privacy, but not sure where to start? This ep
 
 ## More about Max:
 
-- Max's guest profile -- [Max Tannahill]({{< ref "/content/guests/max-tannahill.md" >}})
+- Max's guest profile -- [Max Tannahill]({{< ref "/guests/max-tannahill.md" >}})
 - Blog post on migrating Mamushi from CopperheadOS to CalyxOS -- https://mamushi.io/2021/04/12/departing-from-copperhead/
 - Ministry of Nodes -- https://www.ministryofnodes.com.au/
 

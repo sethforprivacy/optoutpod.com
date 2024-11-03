@@ -20,4 +20,4 @@ cover:
 
 #### Episodes
 
-- [Sponsor Special w/ Vik Sharma from Cake Wallet]({{< ref "/content/episodes/special-vik-sharma-cake-wallet.md" >}})
+- [Sponsor Special w/ Vik Sharma from Cake Wallet]({{< ref "/episodes/special-vik-sharma-cake-wallet.md" >}})

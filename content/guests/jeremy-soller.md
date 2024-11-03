@@ -25,4 +25,4 @@ cover:
 
 #### Episodes
 
-- [Special - Coreboot, FOSS firmware, Pop_OS!, and System76 w/ Jeremy Soller]({{< ref "/content/episodes/special-jeremy-soller-system76.md" >}})
+- [Special - Coreboot, FOSS firmware, Pop_OS!, and System76 w/ Jeremy Soller]({{< ref "/episodes/special-jeremy-soller-system76.md" >}})

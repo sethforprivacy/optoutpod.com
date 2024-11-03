@@ -26,4 +26,4 @@ cover:
 
 #### Episodes
 
-- [Episode: S2E12 - Self-hosted search via Whoogle w/ Ben Busby]({{< ref "/content/episodes/s2e12-whoogle.md" >}})
+- [Episode: S2E12 - Self-hosted search via Whoogle w/ Ben Busby]({{< ref "/episodes/s2e12-whoogle.md" >}})

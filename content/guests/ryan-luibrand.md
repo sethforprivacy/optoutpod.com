@@ -22,4 +22,4 @@ cover:
 
 #### Episodes
 
-- [S2E09 - Managing passwords via Bitwarden w/ Ryan Luibrand]({{< ref "/content/episodes/s2e09-bitwarden.md" >}})
+- [S2E09 - Managing passwords via Bitwarden w/ Ryan Luibrand]({{< ref "/episodes/s2e09-bitwarden.md" >}})

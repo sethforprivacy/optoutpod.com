@@ -38,7 +38,7 @@ I highly recommend checking Cake Wallet out for storing and spending your Monero
 
 For more info on Cake Wallet and it's founder, Vik Sharma, check out the episode I recorded with him below:
 
-- [Sponsor Special w/ Vik Sharma from Cake Wallet]({{< ref "/content/episodes/special-vik-sharma-cake-wallet.md" >}})
+- [Sponsor Special w/ Vik Sharma from Cake Wallet]({{< ref "/episodes/special-vik-sharma-cake-wallet.md" >}})
 
 <script type="text/javascript" src="https://www.buzzsprout.com/1790481/9201174-special-w-vik-sharma-from-cake-wallet.js?container_id=buzzsprout-player-9201174&amp;player=small"></script>
 
@@ -64,7 +64,7 @@ For more information on LocalMonero, check out their excellent resources below:
 For more information on LocalMonero and one of the co-founders, Alex, check out the episode I did with him below:
 
 - [Sponsor Special w/ Alex from LocalMonero and AgoraDesk
-]({{< ref "/content/episodes/special-alex-localmonero.md" >}})
+]({{< ref "/episodes/special-alex-localmonero.md" >}})
 
 <script type="text/javascript" src="https://www.buzzsprout.com/1790481/9201187-special-w-alex-from-localmonero-and-agoradesk.js?container_id=buzzsprout-player-9201187&amp;player=small"></script>
 
@@ -89,6 +89,6 @@ If you'd like to try it out before you subscribe, you can get a 2-week trial cod
 
 For more information on IVPN, check out the episode I recorded with a member of the IVPN team, Viktor Vecsei, below:
 
-- [Sponsor Special w/ Viktor Vecsei from IVPN]({{< ref "/content/episodes/special-viktor-veksai-ivpn.md" >}})
+- [Sponsor Special w/ Viktor Vecsei from IVPN]({{< ref "/episodes/special-viktor-veksai-ivpn.md" >}})
 
 <script type="text/javascript" src="https://www.buzzsprout.com/1790481/9657698-special-w-viktor-vecsei-from-ivpn.js?container_id=buzzsprout-player-9657698&amp;player=small"></script>

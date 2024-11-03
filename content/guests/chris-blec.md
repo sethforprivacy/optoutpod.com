@@ -15,4 +15,4 @@ hidemeta: true
 
 #### Episodes
 
-- [S1E10 - Transitioning to Linux and CalyxOS w/ Chris Blec]({{< ref "/content/episodes/s1e10-chris-blec.md" >}})
+- [S1E10 - Transitioning to Linux and CalyxOS w/ Chris Blec]({{< ref "/episodes/s1e10-chris-blec.md" >}})

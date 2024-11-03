@@ -26,4 +26,4 @@ cover:
 
 #### Episodes
 
-- [S1E01 - Privacy as a journey and digital minimalism w/ Techlore]({{< ref "/content/episodes/s1e01-henry-techlore.md" >}})
+- [S1E01 - Privacy as a journey and digital minimalism w/ Techlore]({{< ref "/episodes/s1e01-henry-techlore.md" >}})

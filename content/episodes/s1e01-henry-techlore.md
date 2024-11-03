@@ -36,7 +36,7 @@ This week, I got the pleasure of sitting down with Henry from Techlore to chat a
 
 ## More about Techlore:
 
-- Guest profile -- [Henry from Techlore]({{< ref "/content/guests/henry.md" >}})
+- Guest profile -- [Henry from Techlore]({{< ref "/guests/henry.md" >}})
 - Main website - https://techlore.tech/
 - Videos - https://techlore.tech/videos.html 
 - Surveillance Report - https://techlore.tech/sr.html

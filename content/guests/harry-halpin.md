@@ -27,4 +27,4 @@ cover:
 
 #### Episodes
 
-- [S2E05 - Privacy-preserving networks w/ Harry Halpin from Nym]({{< ref "/content/episodes/s2e05-nym.md" >}})
+- [S2E05 - Privacy-preserving networks w/ Harry Halpin from Nym]({{< ref "/episodes/s2e05-nym.md" >}})

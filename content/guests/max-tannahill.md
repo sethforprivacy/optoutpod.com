@@ -20,4 +20,4 @@ cover:
 
 #### Episodes
 
-- [S1E03 - Mobile OS privacy, drag-net surveillance, and cryptocurrency usage w/ Max Tannahill]({{< ref "/content/episodes/s1e03-max-tannahill.md" >}})
+- [S1E03 - Mobile OS privacy, drag-net surveillance, and cryptocurrency usage w/ Max Tannahill]({{< ref "/episodes/s1e03-max-tannahill.md" >}})

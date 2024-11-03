@@ -35,7 +35,7 @@ Wondering what alternatives are available for Twitter or similar centralized and
 
 ## More about Sean O'Brien:
 
-- Sean O'Brien's guest profile -- [Sean O'Brien]({{< ref "/content/guests/sean-obrien.md" >}})
+- Sean O'Brien's guest profile -- [Sean O'Brien]({{< ref "/guests/sean-obrien.md" >}})
 - Panquake -- https://panquake.com/
 - Talk Liberation newsletter -- https://talkliberation.substack.com/
 

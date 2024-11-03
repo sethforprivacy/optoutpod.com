@@ -37,7 +37,7 @@ Wanting to find a solid VPN provider, but struggling to break through all of the
 
 ## More about Viktor:
 
-- Viktor's guest profile -- [Viktor Vecsei]({{< ref "/content/guests/viktor-vecsei.md" >}})
+- Viktor's guest profile -- [Viktor Vecsei]({{< ref "/guests/viktor-vecsei.md" >}})
 
 ## More about IVPN:
 

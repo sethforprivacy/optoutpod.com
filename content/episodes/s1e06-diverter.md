@@ -37,7 +37,7 @@ Ever wondered how you can easily self-host tools, or thought about hosting tools
 
 ## More about Diverter:
 
-- Diverter's guest profile -- [Diverter]({{< ref "/content/guests/diverter.md" >}})
+- Diverter's guest profile -- [Diverter]({{< ref "/guests/diverter.md" >}})
 - As easy as P, G, P -- https://diverter.hostyourown.tools/as-easy-ators-pgp/
 - Becoming "Uncle Jim" -- https://diverter.hostyourown.tools/becoming-uncle-jim/
 - Protecting Your Bitcoin Identity (BANB2020 Presentation) -- https://diverter.hostyourown.tools/protecting-your-bitcoin-identity/

@@ -38,7 +38,7 @@ Wondering why FOSS and privacy have become such a focus for Matt Odell and Citad
 
 ## More about Matt Odell:
 
-- Matt Odell's guest profile -- [ODELL]({{< ref "/content/guests/odell.md" >}})
+- Matt Odell's guest profile -- [ODELL]({{< ref "/guests/odell.md" >}})
 - Matt's podcast, Citadel Dispatch -- https://citadeldispatch.com
 - Matt's recommended tools -- https://citadeldispatch.com/help/
 

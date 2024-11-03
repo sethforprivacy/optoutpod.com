@@ -19,4 +19,4 @@ cover:
 
 #### Episodes
 
-- [S1E05 - Privacy by default, contributing to FOSS, and Monero w/ Justin Ehrenhofer]({{< ref "/content/episodes/s1e05-justin-ehrenhofer.md" >}})
+- [S1E05 - Privacy by default, contributing to FOSS, and Monero w/ Justin Ehrenhofer]({{< ref "/episodes/s1e05-justin-ehrenhofer.md" >}})

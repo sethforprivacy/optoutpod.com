@@ -20,4 +20,4 @@ cover:
 
 #### Episodes
 
-- [S1E06 - PGP, Bitcoin, and Yunohost w/ Diverter]({{< ref "/content/episodes/s1e06-diverter.md" >}})
+- [S1E06 - PGP, Bitcoin, and Yunohost w/ Diverter]({{< ref "/episodes/s1e06-diverter.md" >}})

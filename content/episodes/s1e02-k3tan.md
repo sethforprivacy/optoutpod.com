@@ -34,7 +34,7 @@ This week, I got the pleasure of sitting down with k3tan to chat about privacy, 
 
 ## More about k3tan:
 
-- k3tan's guest profile -- [k3tan]({{< ref "/content/guests/k3tan.md" >}})
+- k3tan's guest profile -- [k3tan]({{< ref "/guests/k3tan.md" >}})
 - Blog post on restarting your digital identity -- https://k3tan.com/starting-a-new-digital-identity
 - Blog post on self-hosting -- https://k3tan.com/self-hosting
 - Recommended FOSS software -- https://k3tan.com/foss

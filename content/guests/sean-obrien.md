@@ -23,4 +23,4 @@ cover:
 
 #### Episodes
 
-- [S1E08 - Decentralized and censorship-resistant messaging platforms w/ Sean O'Brien]({{< ref "/content/episodes/s1e08-sean-obrien.md" >}})
+- [S1E08 - Decentralized and censorship-resistant messaging platforms w/ Sean O'Brien]({{< ref "/episodes/s1e08-sean-obrien.md" >}})

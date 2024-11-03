@@ -36,7 +36,7 @@ Wondering how you can contribute to FOSS projects without being able to code, or
 
 ## More about Justin:
 
-- Justin's guest profile -- [Justin Ehrenhofer]({{< ref "/content/guests/justin-ehrenhofer.md" >}})
+- Justin's guest profile -- [Justin Ehrenhofer]({{< ref "/guests/justin-ehrenhofer.md" >}})
 - MAGIC grants, a non-profit -- https://www.magicgrants.org/
 
 ## Justin's recommended tools to Opt Out:

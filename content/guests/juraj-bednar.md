@@ -26,4 +26,4 @@ cover:
 
 #### Episodes
 
-- [S1E07 - Parallel econonomies and ethical Veksláks w/ Juraj Bednar]({{< ref "/content/episodes/s1e07-juraj-bednar.md" >}})
+- [S1E07 - Parallel econonomies and ethical Veksláks w/ Juraj Bednar]({{< ref "/episodes/s1e07-juraj-bednar.md" >}})

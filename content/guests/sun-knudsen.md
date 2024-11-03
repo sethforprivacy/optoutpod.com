@@ -21,4 +21,4 @@ cover:
 
 #### Episodes
 
-- [S1E15 - Privacy education, funding, and Apple w/ Sun Knudsen]({{< ref "/content/episodes/s1e15-sun-knudsen.md" >}})
+- [S1E15 - Privacy education, funding, and Apple w/ Sun Knudsen]({{< ref "/episodes/s1e15-sun-knudsen.md" >}})

@@ -36,7 +36,7 @@ Have you been thinking about switching to Linux for your daily driver, or wonder
 
 ## More about Jeremy Soller:
 
-- Jeremy Soller's guest profile -- [Jeremy Soller]({{< ref "/content/guests/jeremy-soller.md" >}})
+- Jeremy Soller's guest profile -- [Jeremy Soller]({{< ref "/guests/jeremy-soller.md" >}})
 
 ## More about System76:
 

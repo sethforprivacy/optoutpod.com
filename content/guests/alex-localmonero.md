@@ -21,4 +21,4 @@ cover:
 #### Episodes
 
 - [Sponsor Special w/ Alex from LocalMonero and AgoraDesk
-]({{< ref "/content/episodes/special-alex-localmonero.md" >}})
+]({{< ref "/episodes/special-alex-localmonero.md" >}})

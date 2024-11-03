@@ -21,4 +21,4 @@ cover:
 
 #### Episodes
 
-- [S1E02 - Digital identity, FOSS, and self-hosting w/ k3tan]({{< ref "/content/episodes/s1e02-k3tan.md" >}})
+- [S1E02 - Digital identity, FOSS, and self-hosting w/ k3tan]({{< ref "/episodes/s1e02-k3tan.md" >}})

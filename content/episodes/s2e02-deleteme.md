@@ -38,7 +38,7 @@ Wondering how to take back control of the data captured by data brokers before y
 
 ## More about Rob Shavell:
 
-- Rob's guest profile -- [Rob Shavell]({{< ref "/content/guests/rob-shavell.md" >}})
+- Rob's guest profile -- [Rob Shavell]({{< ref "/guests/rob-shavell.md" >}})
 
 ## More about DeleteMe:
 

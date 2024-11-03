@@ -35,7 +35,7 @@ What's the best way to buy and sell Monero while maintaining personal privacy? T
 
 ## More about Alex:
 
-- Alex's guest profile -- [Alex from LocalMonero/AgoraDesk]({{< ref "/content/guests/alex-localmonero.md" >}})
+- Alex's guest profile -- [Alex from LocalMonero/AgoraDesk]({{< ref "/guests/alex-localmonero.md" >}})
 
 ## More about LocalMonero:
 

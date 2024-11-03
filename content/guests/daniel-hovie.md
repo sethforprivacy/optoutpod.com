@@ -25,4 +25,4 @@ cover:
 
 #### Episodes
 
-- [S2E07 - Application privacy via Portmaster w/ David and Daniel from Safing.io]({{< ref "/content/episodes/s2e07-portmaster.md" >}})
+- [S2E07 - Application privacy via Portmaster w/ David and Daniel from Safing.io]({{< ref "/episodes/s2e07-portmaster.md" >}})

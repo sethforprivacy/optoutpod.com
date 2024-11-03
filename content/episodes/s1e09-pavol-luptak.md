@@ -36,7 +36,7 @@ What is crypto-anarchy? How can I opt out if my country has become too authorita
 
 ## More about Pavol Lupták:
 
-- Pavol Lupták's guest profile -- [Pavol Lupták]({{< ref "/content/guests/pavol-luptak.md" >}})
+- Pavol Lupták's guest profile -- [Pavol Lupták]({{< ref "/guests/pavol-luptak.md" >}})
 - A slideshow on Pavol's top 30 mobile tools for privacy -- https://slides.com/nethemba/my-top-30-sovereignty-apps
 - Liberation.Travel website -- https://liberation.travel/
 - The mission of Liberation.Travel -- https://liberation.travel/the-mission-of-liberation-travel/

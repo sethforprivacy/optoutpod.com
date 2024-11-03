@@ -23,4 +23,4 @@ cover:
 
 #### Episodes
 
-- [Proton Wallet w/ Andy Yen]({{< ref "/content/episodes/protonwallet-andy-yen.md" >}})
+- [Proton Wallet w/ Andy Yen]({{< ref "/episodes/protonwallet-andy-yen.md" >}})

@@ -32,7 +32,7 @@ Wondering how you can manage to use Bitcoin privately? This episode, we're sitti
 
 ## More about Samourai:
 
-- Samourai's guest profile -- [Samourai Wallet]({{< ref "/content/guests/samourai-wallet.md" >}})
+- Samourai's guest profile -- [Samourai Wallet]({{< ref "/guests/samourai-wallet.md" >}})
 
 ## More about Samourai Wallet:
 

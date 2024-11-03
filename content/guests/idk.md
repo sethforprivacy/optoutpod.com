@@ -23,4 +23,4 @@ cover:
 
 #### Episodes
 
-- [S2E10 - Network privacy via i2p w/ IDK and Sadie]({{< ref "/content/episodes/s2e10-i2p.md" >}})
+- [S2E10 - Network privacy via i2p w/ IDK and Sadie]({{< ref "/episodes/s2e10-i2p.md" >}})

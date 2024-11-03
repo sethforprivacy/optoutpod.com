@@ -24,4 +24,4 @@ cover:
 
 #### Episodes
 
-- [S1E04 - Threat models and the importance of open-source software w/ Nathan from TheNewOil]({{< ref "/content/episodes/s1e04-nathan-thenewoil.md" >}})
+- [S1E04 - Threat models and the importance of open-source software w/ Nathan from TheNewOil]({{< ref "/episodes/s1e04-nathan-thenewoil.md" >}})

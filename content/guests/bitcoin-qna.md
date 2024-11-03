@@ -22,4 +22,4 @@ cover:
 
 ### Episodes
 
-[S1E14 - A Bitcoiner's journey towards privacy w/ BitcoinQnA]({{< ref "/content/episodes/s1e14-bitcoinqna.md" >}})
+[S1E14 - A Bitcoiner's journey towards privacy w/ BitcoinQnA]({{< ref "/episodes/s1e14-bitcoinqna.md" >}})
