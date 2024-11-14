@@ -9,10 +9,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/ericsirion.jpg
+    image: /guests/ericsirion.png
 ---
 
-{{< figure src="/guests/ericsirion.jpg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/ericsirion.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
 ### Distributed Systems researcher and aspiring cypherpunk
 

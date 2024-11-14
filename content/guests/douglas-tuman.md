@@ -9,10 +9,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/douglastuman.jpeg
+    image: /guests/douglastuman.png
 ---
 
-{{< figure src="/guests/douglastuman.jpeg" align="left" style="border-radius: 8px;" link="" width="250" >}}
+{{< figure src="/guests/douglastuman.png" align="left" style="border-radius: 8px;" link="" width="250" >}}
 
 ### Monero Talk Show Host
 

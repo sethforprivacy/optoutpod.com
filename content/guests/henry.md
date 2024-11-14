@@ -12,7 +12,7 @@ cover:
     image: /guests/henry.png
 ---
 
-{{< figure src="/guests/henry.jpeg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/henry.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
 > Runner, artist, musician and digital rights activist. I'm the owner of Techlore, marketing manager for Cake Wallet, & co-host of Surveillance Report.  
 > I've developed resources for nearly a decade, using my expertise to improve people's relationship with technology and digital safety.

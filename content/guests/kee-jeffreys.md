@@ -9,10 +9,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/keejefferys.jpg
+    image: /guests/keejefferys.png
 ---
 
-{{< figure src="/guests/keejefferys.jpg" align="left" style="border-radius: 8px;" link="" height="250" >}}
+{{< figure src="/guests/keejefferys.png" align="left" style="border-radius: 8px;" link="" height="250" >}}
 
 ### CTO Session/Oxen
 

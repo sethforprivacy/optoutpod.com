@@ -10,10 +10,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/zachherbert.jpg
+    image: /guests/zachherbert.png
 ---
 
-{{< figure src="/guests/zachherbert.jpg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/zachherbert.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
 ### CEO
 

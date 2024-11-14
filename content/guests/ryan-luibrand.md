@@ -9,10 +9,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/ryanluibrand.jpg
+    image: /guests/ryanluibrand.png
 ---
 
-{{< figure src="/guests/ryanluibrand.jpg" align="left" style="border-radius: 8px;" link="" width="250" >}}
+{{< figure src="/guests/ryanluibrand.png" align="left" style="border-radius: 8px;" link="" width="250" >}}
 
 ### Product Marketing
 

@@ -10,10 +10,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/davidgunnarsson.jpeg
+    image: /guests/davidgunnarsson.png
 ---
 
-{{< figure src="/guests/davidgunnarsson.jpeg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/davidgunnarsson.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
 ### Co-Founder of Safing
 

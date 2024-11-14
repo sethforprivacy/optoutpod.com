@@ -9,10 +9,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/jospoortvliet.jpg
+    image: /guests/jospoortvliet.png
 ---
 
-{{< figure src="/guests/jospoortvliet.jpg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/jospoortvliet.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
 ### Marketing director
 

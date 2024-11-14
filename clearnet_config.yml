@@ -120,10 +120,6 @@ menu:
       name: Guests
       url: /guests
       weight: 2
-    - identifier: posts
-      name: Blog Posts
-      url: /posts
-      weight: 3
     - identifier: about
       name: About
       url: /about

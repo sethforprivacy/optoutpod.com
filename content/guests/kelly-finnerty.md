@@ -9,10 +9,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/kellyfinnerty.jpeg
+    image: /guests/kellyfinnerty.png
 ---
 
-{{< figure src="/guests/kellyfinnerty.jpg" align="left" style="border-radius: 8px;" link="" width="250" >}}
+{{< figure src="/guests/kellyfinnerty.png" align="left" style="border-radius: 8px;" link="" width="250" >}}
 
 ### Director of Brand
 

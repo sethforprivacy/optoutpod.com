@@ -10,10 +10,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/isabelabagueros.jpg
+    image: /guests/isabelabagueros.png
 ---
 
-{{< figure src="/guests/isabelabagueros.jpg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/isabelabagueros.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
 ### Executive Director
 

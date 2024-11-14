@@ -10,10 +10,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/idk.jpeg
+    image: /guests/idk.png
 ---
 
-{{< figure src="/guests/idk.jpeg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/idk.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
 ### Stuff-doer, Reddit anti-moderator
 

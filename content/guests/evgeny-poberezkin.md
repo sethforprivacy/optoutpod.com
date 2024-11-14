@@ -9,10 +9,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/evgenypoberezkin.jpeg
+    image: /guests/evgenypoberezkin.png
 ---
 
-{{< figure src="/guests/evgenypoberezkin.jpeg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/evgenypoberezkin.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
 ### Title
 

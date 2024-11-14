@@ -9,10 +9,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/jamesonlopp.jpeg
+    image: /guests/jamesonlopp.png
 ---
 
-{{< figure src="/guests/jamesonlopp.jpeg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/jamesonlopp.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
 ### Co-founder & Chief Security Officer at Casa
 

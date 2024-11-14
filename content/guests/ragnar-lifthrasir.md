@@ -9,10 +9,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/ragnarlifthrasir.jpeg
+    image: /guests/ragnarlifthrasir.png
 ---
 
-{{< figure src="/guests/ragnarlifthrasir.jpeg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/ragnarlifthrasir.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
 ### Author/Entrepreneur
 

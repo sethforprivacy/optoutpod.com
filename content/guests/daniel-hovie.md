@@ -10,10 +10,10 @@ disableShare: true
 hidemeta: true
 draft: false
 cover:
-    image: /guests/danielhovie.jpeg
+    image: /guests/danielhovie.png
 ---
 
-{{< figure src="/guests/danielhovie.jpeg" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
+{{< figure src="/guests/danielhovie.png" align="left" style="border-radius: 8px;" link="" height="250" width="250" >}}
 
 ### CTO of Safing
 
