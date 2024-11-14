@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin and Ossification w/ Jameson Lopp"
-date: 2024-11-213T19:48:58-05:00
+date: 2024-11-13T19:48:58-05:00
 keywords:
 - privacy
 - podcast
