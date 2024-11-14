@@ -88,10 +88,6 @@ params:
       url: "https://x.com/optoutpod"
     - name: reddit
       url: "https://www.reddit.com/r/optoutpod/"
-    - name: email
-      url: "mailto:seth@optoutpod.com"
-    - name: matrix
-      url: "https://matrix.to/#/#optout-general:monero.social"
     - name: monero
       url: "https://optoutpod.com/donate"
     - name: bitcoin

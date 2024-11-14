@@ -13,6 +13,14 @@ If you like what we’re doing at Opt Out, you can support the podcast by sharin
 
 Thanks in advance for listening, and I hope you learn as much as I do each episode!
 
+## How To Contact Me  
+
+- Signal - `@sethforprivacy.01`
+- [SimpleX](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2F0CtpAgMrcbi0tDKSojOxxwDL5g2ZVd7-%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAuyZ_n3N9SVwzIUq4oWl0QvSQDw_ZodrC4tuN96-920Q%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
+- [Matrix](https://matrix.to/#/@sethforprivacy:agoradesk.com) - `@sethforprivacy:agoradesk.com`
+- [Twitter/X](https://x.com/sethforprivacy) - `@sethforprivacy`  
+- Nostr - `seth@freedom.tech` or `npub1tr4dstaptd2sp98h7hlysp8qle6mw7wmauhfkgz3rmxdd8ndprusnw2y5g`
+
 ## Ways To Listen
 
 While you can listen to the podcast directly on the site, most people consume podcast content on one of several apps or platforms.
@@ -35,12 +43,6 @@ See below for a list of direct links to Opt Out on the most common platforms:
 - [Stitcher](https://www.stitcher.com/show/opt-out-2)
 - [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/Opt-Out-p1448055/)
 - [YouTube](https://www.youtube.com/c/OptOutPodcast)
-
-## How To Contact Me  
-
-- [Twitter](https://twitter.com/optoutpod) - `@optoutpod`  
-- [Matrix](https://matrix.to/#/@sethforprivacy:agoradesk.com) - `@sethforprivacy:agoradesk.com`
-- [Email](mailto:seth@optoutpod.com) - `seth@optoutpod.com`
 
 ## Opt Out Community Channels
 
