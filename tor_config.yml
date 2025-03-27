@@ -67,7 +67,7 @@ params:
       <br/><br/>
       ***Jump into the latest episode directly below:***
 
-      <div id="buzzsprout-player-16496432"></div><script src="https://www.buzzsprout.com/1790481/episodes/16496432-improving-simplex-w-evgeny-from-simplex-and-daniel-keller-from-flux.js?container_id=buzzsprout-player-16496432&player=small" type="text/javascript" charset="utf-8"></script>
+      <div id="buzzsprout-player-16869520"></div><script src="https://www.buzzsprout.com/1790481/episodes/16869520-can-ai-be-private-w-marks-from-opensecret.js?container_id=buzzsprout-player-16869520&player=small" type="text/javascript" charset="utf-8"></script>
 
 
   socialIcons:
@@ -143,7 +143,7 @@ privacy:
     disable: true
   instagram:
     disable: true
-  twitter:
+  x:
     disable: false
     enableDNT: false
     simple: true

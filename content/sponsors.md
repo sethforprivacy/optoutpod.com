@@ -10,6 +10,8 @@ showToc: true
 
 # Introduction
 
+**NOTE: Opt Out is no longer sponsored by any entity, and is done in my free time thanks to the flexibility afforded to me by my role at Cake Wallet as VP. However, I'm leaving my previous sponsors listed here regardless as they have been fantastic supporters of the show over the years, and I want to be sure people understand any potential conflicts of interest at hand.**
+
 I'm beyond thrilled that 3 of my favorite entities in the privacy and cryptocurrency space have chosen to support what I'm doing with Opt Out! All three come highly recommended from myself, and to learn more about them, jump into the relevant section on each.
 
 Some notes on sponsorships of Opt Out:
