@@ -21,7 +21,7 @@ draft: false
 
 For the video version of the episode (or for closed captions and translations), see YouTube:
 
-- <https://youtu.be/UDYk9bVlvTo>
+- <https://youtu.be/-UxU83QmFNM>
 
 ## Show Notes
 
