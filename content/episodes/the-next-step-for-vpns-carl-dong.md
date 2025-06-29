@@ -29,18 +29,18 @@ The VPN paradigm has grown stale, with simple one-party providers being the best
 
 ## More about Carl
 
-- Carl's guest profile -- https://optoutpod.com/guests/carl-dong/
+- Carl's guest profile -- <https://optoutpod.com/guests/carl-dong/>
 
 ## More about Obscura
 
-- Website: https://obscura.net/
-- Obscura's Twitter: https://x.com/obscuravpn
-- Technical Blog Post on Obscura: https://obscura.net/blog/bootstrapping-trust/
-- iCloud Private Relay: https://www.apple.com/icloud/docs/iCloud_Private_Relay_Overview_Dec2021.pdf
-- MASQUE at the IETF: https://datatracker.ietf.org/wg/masque/about/
+- Website: <https://obscura.net/>
+- Obscura's Twitter: <https://x.com/obscuravpn>
+- Technical Blog Post on Obscura: <https://obscura.net/blog/bootstrapping-trust/>
+- iCloud Private Relay: <https://www.apple.com/icloud/docs/iCloud_Private_Relay_Overview_Dec2021.pdf>
+- MASQUE at the IETF: <https://datatracker.ietf.org/wg/masque/about/>
 
 ## Supporting Opt Out
 
-- Donations -- https://optoutpod.com/donate
+- Donations -- <https://optoutpod.com/donate>
 - Leave a review on your favorite podcast platform, if possible!
 - Share it with your friends, family, and other communities!
