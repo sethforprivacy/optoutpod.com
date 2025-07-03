@@ -35,6 +35,7 @@ Tired of Bitcoin conferences for suits and TradFi bros? Nifty has been making Bi
 
 - Website: <https://btcpp.dev/>
 - Bitcoin++'s Twitter: <https://x.com/btcplusplus>
+- Bitcoin++ Insider Edition: <https://btcpp.substack.com/p/welcome-to-the-insider-edition>
 
 ## Supporting Opt Out
 
