@@ -31,11 +31,11 @@ While we've already talked about it a good bit today with k3tan, I wanted to cir
 
 CalyxOS is a privacy-preserving Android mobile OS that allows you to reclaim your privacy while on the go. It comes without Google apps or tracking, but does allow you to run microG, an open-source connector for Google Play Service, something which many apps require to function properly.
 
-I've been using CalyxOS for the past 3mo while loving the experience, and have written down more detailed thoughts along with app recommendations, a simple installation note, and more on my blog at sethsimmons.me.
+I've been using CalyxOS for the past 3mo while loving the experience, and have written down more detailed thoughts along with app recommendations, a simple installation note, and more on my blog at sethforprivacy.com.
 
 - More about CalyxOS -- https://calyxos.org/
 - k3tan's recommended apps for CalyxOS -- https://k3tan.com/mobile-phone-apps
-- My thoughts on CalyxOS and app recommendations -- https://sethsimmons.me/posts/switching-to-calyxos/
+- My thoughts on CalyxOS and app recommendations -- https://sethforprivacy.com/posts/switching-to-calyxos/
 - BitcoinQnA guide to installing CalyxOS -- https://bitcoiner.guide/calyxos/
 - Mamushi, a reseller that will flash CalyxOS for you, accepts Bitcoin/Monero -- https://mamushi.io/
 
