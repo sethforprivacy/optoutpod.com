@@ -60,7 +60,7 @@ This week, I got the pleasure of sitting down with k3tan to chat about privacy, 
 
 - More about CalyxOS -- https://calyxos.org/
 - k3tan's recommended apps for CalyxOS -- https://k3tan.com/mobile-phone-apps
-- My thoughts on CalyxOS and app recommendations -- https://sethsimmons.me/posts/switching-to-calyxos/
+- My thoughts on CalyxOS and app recommendations -- https://sethforprivacy.com/posts/switching-to-calyxos/
 - BitcoinQnA guide to installing CalyxOS -- https://bitcoiner.guide/calyxos/
 - Mamushi, a reseller that will flash CalyxOS for you, accepts Bitcoin/Monero -- https://mamushi.io/
 
