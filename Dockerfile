@@ -1,4 +1,5 @@
-FROM nginx:alpine
+# nginx:alpine (multi-arch manifest digest pinned)
+FROM nginx:alpine@sha256:db35bfc6b2951e7f8a72db5db120288c127ffaeeb4a6d4b95a26fead017d5913
 
 # Upgrade base image
 RUN set -ex && apk --update --no-cache upgrade
@@ -15,4 +16,11 @@ RUN rm /etc/nginx/conf.d/default.conf
 # Copy custom nginx.conf file
 COPY nginx.conf /etc/nginx/nginx.conf
 
+HEALTHCHECK CMD wget -qO- --header "Host: optoutpod.com" http://127.0.0.1/ || exit 1
+
 EXPOSE 80 443
+
+# NOTE: Running as USER nginx was considered but intentionally deferred. The
+# container binds the privileged ports 80/443; a non-root master process would
+# fail to open those listeners without CAP_NET_BIND_SERVICE. Worker processes
+# already run unprivileged as `user nginx;` in nginx.conf.
