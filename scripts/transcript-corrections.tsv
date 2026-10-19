@@ -1,0 +1,56 @@
+# Proper-noun corrections applied to Whisper transcripts by scripts/import-transcripts.py.
+#
+# Only fix names Whisper reliably mishears. Do not use this to rewrite what was said.
+#
+# Format: one rule per line, TAB-separated:
+#   pattern <TAB> replacement [<TAB> slug,slug,...]
+# - pattern is a Python regex, matched case-INsensitively and wrapped in \b...\b.
+#   Wrap it in (?-i:...) to make it case-sensitive.
+# - replacement may use \1 etc. for groups in the pattern.
+# - the optional third column limits the rule to those episode slugs.
+# - rules run top to bottom, so put longer phrases before their shorter forms.
+#
+# Run `python3 scripts/import-transcripts.py --report` to see how often each rule fires.
+
+# People and shows
+seth (?:for|4) privacy	Seth For Privacy
+jameson lop	Jameson Lopp
+(?-i:Sun)	Son	s2e01-simplelogin
+isabella	Isabela	s2e06-tor
+tech ?lore	Techlore
+the new ?oil	The New Oil
+(?-i:new ?oil)	New Oil
+
+# Services and apps
+mul+v(?:ad|od|ot|att?)|molvad	Mullvad
+simple ?login	SimpleLogin
+a non-addy	AnonAddy
+monero joe	Monerujo
+local ?monero	LocalMonero
+cake ?wallet	Cake Wallet
+i ?vpn	IVPN
+(?-i:Delete Me)	DeleteMe
+silent ?link	Silent.Link
+(?-i:NIM|Nim)	Nym	s2e05-nym
+hoogle	Whoogle
+crex|cerex	SearX	s2e08-startpage
+next ?cloud	Nextcloud
+simple ?x chat	SimpleX Chat
+simple ?x	SimpleX
+f ?droid	F-Droid
+libre ?wolf	LibreWolf
+vera ?crypt	VeraCrypt
+keypass	KeePass
+noster|nostra	Nostr
+bisque	Bisq
+
+# Operating systems
+cal[iy]x ?os	CalyxOS
+calix	Calyx
+graphene ?os	GrapheneOS
+cubes ?os	Qubes OS
+cubes	Qubes
+
+# Bitcoin
+samo?urai	Samourai
+fe[dt][ia]m[ei]nt(s?)	Fedimint\1

@@ -1,0 +1,27 @@
+.episode-transcript {
+    margin-top: 40px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+}
+
+.post-content .transcript-note {
+    color: var(--secondary);
+    font-size: 0.9em;
+}
+
+.episode-transcript summary {
+    cursor: pointer;
+    font-weight: 600;
+    margin-bottom: var(--content-gap);
+}
+
+.post-content .transcript-time {
+    margin-right: 0.35em;
+    font-size: 0.85em;
+    font-variant-numeric: tabular-nums;
+    color: var(--secondary);
+}
+
+.transcript-text p:has(.transcript-time) {
+    margin-top: 1.6em;
+}

@@ -1,0 +1,3 @@
+{{- if and .IsPage (eq .Section "episodes") }}
+{{- partial "podcast_episode_schema.html" . }}
+{{- end }}
