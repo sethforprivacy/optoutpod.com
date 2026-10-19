@@ -1,0 +1,51 @@
+{{- /* schema.org PodcastEpisode JSON-LD for an episode page. The transcript text
+       goes on the episode's AudioObject (schema.org defines `transcript` on
+       AudioObject/VideoObject, not on PodcastEpisode). */ -}}
+{{- $slug := .File.ContentBaseName }}
+{{- $feed := "" }}
+{{- range site.Params.socialIcons }}{{ if eq .name "rss" }}{{ $feed = .url }}{{ end }}{{ end }}
+
+{{- $series := dict "@type" "PodcastSeries" "@id" (printf "%s#podcast" site.Home.Permalink) "name" site.Title "url" site.Home.Permalink }}
+{{- with $feed }}{{ $series = merge $series (dict "webFeed" .) }}{{ end }}
+
+{{- $ep := dict
+  "@context" "https://schema.org"
+  "@type" "PodcastEpisode"
+  "@id" (printf "%s#episode" .Permalink)
+  "url" .Permalink
+  "name" (.Title | plainify)
+  "description" (.Summary | plainify | htmlUnescape)
+  "datePublished" (.Date.Format "2006-01-02")
+  "inLanguage" "en"
+  "partOfSeries" $series
+  "author" (dict "@type" "Person" "name" site.Params.author)
+}}
+
+{{- with findRESubmatch `^s(\d+)e(\d+)-` $slug 1 }}
+{{- $m := index . 0 }}
+{{- /* TrimLeft: "08" would otherwise be read as octal */}}
+{{- $ep = merge $ep (dict
+  "episodeNumber" (int (strings.TrimLeft "0" (index $m 2)))
+  "partOfSeason" (dict "@type" "PodcastSeason" "seasonNumber" (int (strings.TrimLeft "0" (index $m 1))))
+) }}
+{{- end }}
+
+{{- with index hugo.Data.transcripts $slug }}
+{{- $audio := dict "@type" "AudioObject" }}
+{{- with .audio }}
+{{- $d := int .duration }}
+{{- $audio = merge $audio (dict
+  "contentUrl" .url
+  "encodingFormat" .type
+  "duration" (printf "PT%dH%dM%dS" (div $d 3600) (mod (div $d 60) 60) (mod $d 60))
+) }}
+{{- end }}
+{{- $paras := slice }}
+{{- range .chunks }}{{ range .paragraphs }}{{ $paras = $paras | append . }}{{ end }}{{ end }}
+{{- $audio = merge $audio (dict "transcript" (delimit $paras "\n\n")) }}
+{{- $ep = merge $ep (dict "associatedMedia" $audio) }}
+{{- with .youtube_id }}
+{{- $ep = merge $ep (dict "sameAs" (slice (printf "https://www.youtube.com/watch?v=%s" .))) }}
+{{- end }}
+{{- end }}
+<script type="application/ld+json">{{ $ep | jsonify | safeJS }}</script>
