@@ -19,7 +19,6 @@ cover:
 > Ragnar is an author and entrepreneur of Bitcoin and freedom technology.
 
 - Website -- https://ragnarly.com/
-- Email -- [ragnarli@pm.me](mailto:ragnarli@pm.me)
 - Twitter -- https://twitter.com/ragnarly
 
 #### Episodes
